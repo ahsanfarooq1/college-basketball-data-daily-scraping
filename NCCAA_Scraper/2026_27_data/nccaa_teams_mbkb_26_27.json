@@ -243,15 +243,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=ouaz"
   },
   {
-    "team_id": "central christian (kan.)",
-    "team_name": "Central Christian College (Kan.)",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": null,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=central christian (kan.)"
-  },
-  {
     "team_id": "judson",
     "team_name": "Judson University",
     "division": "DI",
@@ -277,6 +268,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=ecclesia"
+  },
+  {
+    "team_id": "central christian (kan.)",
+    "team_name": "Central Christian College (Kan.)",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": null,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=central christian (kan.)"
   },
   {
     "team_id": "columbia international",

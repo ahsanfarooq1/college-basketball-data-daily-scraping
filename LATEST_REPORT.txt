@@ -1,0 +1,116 @@
+ALERT REPORT  2026-11-20 13:46
+======================================================================
+STATUS: ALL CLEAR - no website structure change or bad output detected (NJCAA, NAIA, NCAA, NCCAA)
+
+DAILY SCRAPE REPORT  2026-11-20 13:46   (season 2026-27)
+======================================================================
+
+[NJCAA]  OK  (12.5 min)
+  Njcaa_Coach_Stats_mbkb_div1_2026-27.json
+      teams with games : 179 -> 179  (+0)
+      team-games (GP)  : 934 -> 934  (+0)
+      players w/ games : 2198 -> 2198  (+0)
+      teams whose GP changed: 0
+  Njcaa_Coach_Stats_mbkb_div2_2026-27.json
+      teams with games : 150 -> 150  (+0)
+      team-games (GP)  : 721 -> 721  (+0)
+      players w/ games : 1864 -> 1864  (+0)
+      teams whose GP changed: 0
+  Njcaa_Coach_Stats_mbkb_div3_2026-27.json
+      teams with games : 90 -> 90  (+0)
+      team-games (GP)  : 444 -> 444  (+0)
+      players w/ games : 1170 -> 1170  (+0)
+      teams whose GP changed: 0
+  Njcaa_Coach_Stats_wbkb_div1_2026-27.json
+      teams with games : 169 -> 169  (+0)
+      team-games (GP)  : 873 -> 873  (+0)
+      players w/ games : 1850 -> 1850  (+0)
+      teams whose GP changed: 0
+  Njcaa_Coach_Stats_wbkb_div2_2026-27.json
+      teams with games : 132 -> 132  (+0)
+      team-games (GP)  : 637 -> 638  (+1)
+      players w/ games : 1371 -> 1371  (+0)
+      teams whose GP changed: 1
+  Njcaa_Coach_Stats_wbkb_div3_2026-27.json
+      teams with games : 69 -> 69  (+0)
+      team-games (GP)  : 285 -> 285  (+0)
+      players w/ games : 575 -> 575  (+0)
+      teams whose GP changed: 0
+  Njcaa_Women_Teams_d1_2026-2027.json: 183 -> 183 teams | partial 169->169 | none 14->14
+        none -> partial: 0 team(s)
+  Njcaa_Women_Teams_d2_2026-2027.json: 137 -> 137 teams | partial 132->132 | none 5->5
+        none -> partial: 0 team(s)
+  Njcaa_Women_Teams_d3_2026-2027.json: 78 -> 78 teams | partial 69->69 | none 9->9
+        none -> partial: 0 team(s)
+  Njcaa_men_Teams_d1_2026-2027.json: 185 -> 185 teams | partial 179->179 | none 6->6
+        none -> partial: 0 team(s)
+  Njcaa_men_Teams_d2_2026-2027.json: 153 -> 153 teams | partial 150->150 | none 3->3
+        none -> partial: 0 team(s)
+  Njcaa_men_Teams_d3_2026-2027.json: 91 -> 91 teams | partial 90->90 | none 1->1
+        none -> partial: 0 team(s)
+
+[NAIA]  OK  (0.0 min)
+  Naia_Coach_Stats_MBKB_2026_2027.json
+      teams with games : 214 -> 214  (+0)
+      team-games (GP)  : 1313 -> 1313  (+0)
+      players w/ games : 3102 -> 3102  (+0)
+      teams whose GP changed: 0
+  Naia_Coach_Stats_WBKB_2026_2027.json
+      teams with games : 224 -> 224  (+0)
+      team-games (GP)  : 1299 -> 1299  (+0)
+      players w/ games : 2932 -> 2932  (+0)
+      teams whose GP changed: 0
+  naia_mens_teams_2026_27.json: 217 -> 217 teams | partial 214->214 | none 3->3
+        none -> partial: 0 team(s)
+  naia_womens_teams_2026_27.json: 241 -> 241 teams | partial 224->224 | none 17->17
+        none -> partial: 0 team(s)
+
+[NCAA]  OK  (2.7 min)
+  NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: NEW file - 578 teams with games, 7156 players with games
+  NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: NEW file - 433 teams with games, 4899 players with games
+  NCAA_Accumulated_Stats_MBB_D3_2026_2027.json: NEW file - 542 teams with games, 7415 players with games
+  NCAA_Accumulated_Stats_WBB_D1_2026_2027.json: NEW file - 559 teams with games, 6857 players with games
+  NCAA_Accumulated_Stats_WBB_D2_2026_2027.json: NEW file - 439 teams with games, 5438 players with games
+  NCAA_Accumulated_Stats_WBB_D3_2026_2027.json: NEW file - 524 teams with games, 6988 players with games
+  NCAA_Men_Teams_D1_2026-27.json: 365 -> 365 teams | partial 365->365 | none 0->0
+        none -> partial: 0 team(s)
+  NCAA_Men_Teams_D2_2026-27.json: 294 -> 294 teams | partial 285->285 | none 9->9
+        none -> partial: 0 team(s)
+  NCAA_Men_Teams_D3_2026-27.json: 405 -> 405 teams | partial 399->399 | none 6->6
+        none -> partial: 0 team(s)
+  NCAA_Women_Teams_D1_2026-27.json: 363 -> 363 teams | partial 363->363 | none 0->0
+        none -> partial: 0 team(s)
+  NCAA_Women_Teams_D2_2026-27.json: 291 -> 291 teams | partial 289->289 | none 2->2
+        none -> partial: 0 team(s)
+  NCAA_Women_Teams_D3_2026-27.json: 414 -> 414 teams | partial 414->414 | none 0->0
+        none -> partial: 0 team(s)
+
+[NCCAA]  OK  (1.7 min)
+  NCCAA_Stats_MBB_DI_2026_2027.json
+      teams with games : 38 -> 38  (+0)
+      team-games (GP)  : 195 -> 196  (+1)
+      players w/ games : 613 -> 613  (+0)
+      teams whose GP changed: 1
+  NCCAA_Stats_MBB_DII_2026_2027.json
+      teams with games : 36 -> 36  (+0)
+      team-games (GP)  : 174 -> 174  (+0)
+      players w/ games : 518 -> 518  (+0)
+      teams whose GP changed: 0
+  NCCAA_Stats_WBB_DI_2026_2027.json
+      teams with games : 37 -> 37  (+0)
+      team-games (GP)  : 178 -> 179  (+1)
+      players w/ games : 470 -> 470  (+0)
+      teams whose GP changed: 1
+  NCCAA_Stats_WBB_DII_2026_2027.json
+      teams with games : 27 -> 27  (+0)
+      team-games (GP)  : 113 -> 113  (+0)
+      players w/ games : 304 -> 304  (+0)
+      teams whose GP changed: 0
+  NCCAA_Men_Teams_DI_2026-27.json: 38 -> 38 teams | partial 38->38 | none 0->0
+        none -> partial: 0 team(s)
+  NCCAA_Men_Teams_DII_2026-27.json: 36 -> 36 teams | partial 36->36 | none 0->0
+        none -> partial: 0 team(s)
+  NCCAA_Women_Teams_DI_2026-27.json: 37 -> 37 teams | partial 37->37 | none 0->0
+        none -> partial: 0 team(s)
+  NCCAA_Women_Teams_DII_2026-27.json: 27 -> 27 teams | partial 27->27 | none 0->0
+        none -> partial: 0 team(s)
