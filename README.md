@@ -16,3 +16,8 @@ Runs **every day on GitHub Actions** (no laptop needed): NJCAA, NAIA, NCAA, NCCA
 * **NAIA** reads PrestoSports' public S3 JSON files directly (URLs in `NAIA_Scraper/naia_s3_urls.json`) - no browser, no Cloudflare.
 * **NWAC** is *not* run here: its pages are behind a Cloudflare Turnstile that needs a human-verified browser. Its files in `26-27 College Data/NWAC` are whatever was last produced locally.
 * NCAA raw working files are kept gzipped in `NCAA_Scraper/state/` so each day only fetches new games.
+
+## Pull the data to your machine
+`python pull_from_github.py` downloads this repo and overwrites the local `26-27 College Data/` files of NAIA, NCAA, NJCAA and NCCAA
+(`--dry-run` to preview, `--backup` to keep old copies, `--only naia,ncaa` to limit). NWAC is not touched.
+Needs only Python 3 - no login, the repo is public.
