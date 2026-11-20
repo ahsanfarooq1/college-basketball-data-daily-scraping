@@ -1,0 +1,98 @@
+name: daily-scrape
+
+# Runs NJCAA + NAIA + NCAA + NCCAA every day, writes the data + team lists to "26-27 College Data/",
+# commits them to this repo, and leaves an alert report (LATEST_ALERTS.txt) + comparison (LATEST_REPORT.txt).
+# NWAC is NOT run here: it sits behind a Cloudflare Turnstile that needs a human-verified browser.
+on:
+  schedule:
+    - cron: "0 8 * * *"          # 08:00 UTC = 13:00 Pakistan time (PKT, UTC+5)
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Optional: comma list of scrapers (njcaa,naia,ncaa,nccaa). Empty = all 4"
+        required: false
+        default: ""
+
+concurrency:
+  group: daily-scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      PYTHONUTF8: "1"
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium   # only used if the NCAA API starts challenging the runner
+
+      - name: Restore NCAA working state (compressed in git)
+        run: |
+          mkdir -p NCAA_Scraper/2026_27_data NCAA_Scraper/2024_2025_2026_data
+          for f in NCAA_Scraper/state/*.gz; do gunzip -c "$f" > "NCAA_Scraper/2026_27_data/$(basename "$f" .gz)"; done
+          ls NCAA_Scraper/2026_27_data | wc -l
+
+      - name: Run scrapers (parallel) + old-vs-new report + alerts
+        run: |
+          ONLY="${{ github.event.inputs.only }}"
+          if [ -n "$ONLY" ]; then ARGS="--only $ONLY"; else ARGS=""; fi
+          xvfb-run -a python run_all.py --no-chrome $ARGS
+
+      - name: Save NCAA working state
+        if: always()
+        run: |
+          mkdir -p NCAA_Scraper/state
+          for f in NCAA_Scraper/2026_27_data/*.json; do
+            b=$(basename "$f"); case "$b" in NCAA_Accumulated_*) continue;; esac
+            gzip -nc "$f" > "NCAA_Scraper/state/$b.gz"          # -n: identical data = identical bytes = no git churn
+          done
+
+      - name: Validate all files + publish latest report
+        if: always()
+        run: |
+          python validate_all.py > VALIDATION.txt 2>&1 || true
+          latest=$(ls -d _daily_runs/*/ 2>/dev/null | sort | tail -1)
+          if [ -n "$latest" ] && [ -f "${latest}report.txt" ]; then cp "${latest}report.txt" LATEST_REPORT.txt; fi
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > LAST_RUN_UTC.txt
+          tail -8 VALIDATION.txt || true
+
+      - name: Keep the raw scraper logs (artifact)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-logs
+          path: _daily_runs/
+          retention-days: 14
+
+      - name: Commit data to the repo
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "nothing changed"; else
+            git commit -m "data: daily scrape $(date -u +%Y-%m-%d)"
+            git pull --rebase -q || true
+            git push
+          fi
+
+      - name: Fail the run (=> GitHub e-mails you) if any scraper raised a CRITICAL alert
+        if: always()
+        run: |
+          cat LATEST_ALERTS.txt
+          if grep -q "^\[CRITICAL\]" LATEST_ALERTS.txt; then echo "::error::CRITICAL alert - see LATEST_ALERTS.txt"; exit 1; fi

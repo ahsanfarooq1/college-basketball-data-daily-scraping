@@ -1,0 +1,366 @@
+[
+    {
+        "team_name": "Anoka-Ramsey Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Atlantic Cape Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bergen Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Borough of Manhattan Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bristol Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Bronx Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Brookdale Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bunker Hill Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Butler County Community College-PA",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "CT State Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Camden County College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Camp Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Cayuga County Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Central Lakes College-Brainerd",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Clinton Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Columbia Greene Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Community College of Allegheny County",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Community College of Philadelphia",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Community College of Rhode Island",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Dallas College - Brookhaven",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dallas College - Cedar Valley",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Dallas College - Eastfield",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dallas College - Mountain View",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dallas College - North Lake",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dallas College - Richland",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Delaware County Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Dutchess Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Finger Lakes Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Fulton-Montgomery Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Genesee Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Herkimer County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Hocking College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Holyoke Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Hostos Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Hudson County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Hudson Valley Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Jefferson Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Johnston Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Joliet Junior College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Kingsborough Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "LaGuardia Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Lorain County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Luzerne County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "MassBay Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Massasoit Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Minnesota North College - Itasca",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Minnesota North College - Mesabi Range",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Minnesota North College - Rainy River",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Minnesota North College - Vermilion",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Minnesota North College- Hibbing",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Minnesota State Community and Technical College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Minnesota West Community and Technical College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mohawk Valley Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Monroe University-Bronx",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Montgomery County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Nassau Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "North Country Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northampton Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northern Essex Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northland Community and Technical College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Ocean County College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Onondaga Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Owens Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Oxford College - Emory University",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Passaic County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Patrick & Henry Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Queensborough Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Quincy College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Quinsigamond Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "RCSJ - Cumberland",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Ridgewater College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Riverland Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rochester Community and Technical College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rowan College of South Jersey-Gloucester",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Roxbury Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "SUNY Adirondack",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "SUNY Broome Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "SUNY Corning Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Salem Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Sandhills Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Springfield Technical Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "St. Cloud Technical and Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Suffolk County Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Sullivan County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Sussex County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Thaddeus Stevens College of Technology",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Tidewater Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Ulster County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Union College of Union County, New Jersey",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "University of Connecticut-Avery Point",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Virginia Peninsula Community College",
+        "data_availablity": "none"
+    }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "team_name": "Bellevue",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Big Bend",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Blue Mountain",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Centralia",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Chemeketa",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Clackamas",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Clark",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Columbia Basin",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Edmonds",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Everett",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Grays Harbor",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Green River",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Highline",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lane",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Linn-Benton",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lower Columbia",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mt Hood",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Olympic",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Peninsula",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pierce",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Portland",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "S. Puget Sound",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "SW Oregon",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Shoreline",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Skagit Valley",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Spokane",
+    "data_availablity": "none"
+  },
+  {
+    "team_name": "Tacoma",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Treasure Valley",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Umpqua",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Walla Walla",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wenatchee Valley",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Whatcom",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Yakima Valley",
+    "data_availablity": "none"
+  }
+]

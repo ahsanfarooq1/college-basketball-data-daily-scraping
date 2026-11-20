@@ -1,0 +1,12 @@
+{
+  "2026-27": {
+    "mbkb": {
+      "teams": "https://prestosports-downloads.s3.us-west-2.amazonaws.com/teamsPageData/v1/cjksntz2wn52hh7y/9f5lqjc35uuk9x0e.json",
+      "players": "https://prestosports-downloads.s3.us-west-2.amazonaws.com/playersPageData/v1/cjksntz2wn52hh7y/9qzovy14zdlgcx6u.json"
+    },
+    "wbkb": {
+      "teams": "https://prestosports-downloads.s3.us-west-2.amazonaws.com/teamsPageData/v1/cjksntz2wn52hh7y/ju1mfdgqwpc5tdpf.json",
+      "players": "https://prestosports-downloads.s3.us-west-2.amazonaws.com/playersPageData/v1/cjksntz2wn52hh7y/smt2jspxbfpz47bx.json"
+    }
+  }
+}

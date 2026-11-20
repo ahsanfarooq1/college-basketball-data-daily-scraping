@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_daily_runs/
+# NCAA raw working files live compressed in NCAA_Scraper/state/ (restored at the start of every run)
+NCAA_Scraper/2026_27_data/
+NCAA_Scraper/2024_2025_2026_data/

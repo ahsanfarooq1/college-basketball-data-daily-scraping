@@ -1,0 +1,614 @@
+[
+    {
+        "team_name": "Allen Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Alpena Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Anne Arundel Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Arkansas State University Mid-South",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bay College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bevill State Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Black Hawk College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bryant & Stratton College - Ohio",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bryant & Stratton College - Virginia",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bryant & Stratton College - Wisconsin",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "CCBC Catonsville",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "CCBC Dundalk",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Carl Sandburg College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Catawba Valley Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Cecil College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Central Carolina Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Central Community College Columbus",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Chandler-Gilbert Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Chattahoochee Valley Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Chesapeake College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Clark State College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Cleveland Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Coastal Alabama Community College - North",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "College of DuPage",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "College of Lake County",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "College of Southern Maryland",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Community College of Beaver County",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "County College of Morris",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Cuyahoga Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dakota College at Bottineau",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dakota County Technical College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Danville Area Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Davidson-Davie Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Delaware Technical Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Delta College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Des Moines Area Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Edison State Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Elgin Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Ellsworth Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Enterprise State Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Erie Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Essex County College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Fayetteville Technical Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Florida Gateway College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Florida State College at Jacksonville",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Forsyth Technical Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Fort Scott Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Frederick Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Garrett College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Glen Oaks Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Glendale Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Gogebic Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Grand Rapids Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Guilford Technical Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Harcum College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Harper College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Henry Ford College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Highland Community College-Kansas",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Hillsborough Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Howard Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Illinois Central College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Illinois Valley Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Iowa Central Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Iowa Lakes Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Iowa Western Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Jackson College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Jamestown Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Jefferson College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "John Wood Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Johnson County",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kalamazoo Valley Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kansas City Kansas Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kellogg Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kirkwood Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kirtland Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kishwaukee College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Labette Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lake Michigan College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lakeland Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lansing Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lewis and Clark Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lincoln Land Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Louisburg College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lurleen B Wallace Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Macomb Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Madison College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Marian University Plymouth",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Marion Military Institute",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "McHenry County College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mercer County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mesa Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Metropolitan Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mid Michigan College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Middlesex College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Milwaukee Area Technical College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Monroe Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Montcalm Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Montgomery College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Moraine Valley Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Morton College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mott Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Muskegon Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "National Park College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Neosho County",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "North Arkansas College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "North Central Michigan College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "North Central Missouri College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "North Iowa Area Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northeast Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Oakland Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Oakton College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Palm Beach State College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Parkland College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Pasco-Hernando State College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Penn Highlands Community College",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Phillips Community College of the University of Arkansas",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Phoenix College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Pima Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Pitt Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Prairie State College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Prince George's Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Raritan Valley Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Reid State Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rend Lake College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rock Valley College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rockland Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "SUNY Niagara",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "SUNY Orange",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Schoolcraft College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Scottsdale Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Shorter College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Snead State Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "South Arkansas College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "South Mountain Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "South Suburban College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southeast Arkansas College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southeastern Illinois College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southern Arkansas University Tech",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southwestern Community College (IA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southwestern Michigan College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Spoon River College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "St. Clair County Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "St. Louis Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Terra State Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "United Tribes Technical College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "University of Arkansas Cossatot",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "WVU Potomac State College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Wallace Community College - Selma",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Waubonsee Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Wayne County Community College District",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Westchester Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Western Iowa Tech Community College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Westmoreland County Community College",
+        "data_availablity": "partial"
+    }
+]

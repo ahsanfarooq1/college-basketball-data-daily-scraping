@@ -1,0 +1,870 @@
+[
+    {
+        "team_name": "Abraham Baldwin Agricultural",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Aquinas (Mich.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Arizona Christian",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Arkansas Baptist",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Ave Maria",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Avila (MO)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Baker",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bellevue (NE)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Benedictine (KS)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Benedictine Mesa",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bethany (KS)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bethel (IN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bethel (KS)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bethel (TN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bismarck State (ND)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Blue Mountain Christian (MS)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bluefield (VA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Brescia (KY)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Brewton-Parker (GA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Briar Cliff (IA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bryan (TN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Bushnell (OR)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "CIU (SC)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Calumet (IN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Campbellsville (KY)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Carolina (N.C.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Carroll (MT)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Central Baptist (Ark.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Central Christian (KS)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Central Methodist",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Clarke (IA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Cleary (MI)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Coastal Georgia",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "College of Idaho",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "College of the Ozarks",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Columbia (MO)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Columbia (SC)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Concordia (Neb.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Corban",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Cornerstone",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Crowley's Ridge (AR)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Culver-Stockton (MO)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Cumberland (Tenn.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Cumberlands (Ky.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dakota State (SD)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dakota Wesleyan (SD)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dalton State (GA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Defiance College (OH)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dickinson State (ND)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dillard (La.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Doane (NE)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Dordt (IA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Eastern Oregon",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Embry-Riddle (AZ)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Evangel (Mo.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Evergreen (WA)",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Faulkner (AL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Fisher (MA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Fisk (TN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Florida College (FL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Florida Memorial",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Florida National",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Freed-Hardeman (Tenn.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Friends (KS)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Georgetown (Ky.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Georgia Gwinnett",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Goshen (IN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Governors State",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Grace (Ind.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Graceland",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Grand View",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Hannibal-LaGrange (MO)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Harris-Stowe (MO)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Haskell Indian Nations University",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Hastings",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Hesston College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Holy Cross (Ind.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Hope International",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Huntington (IN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Huston-Tillotson",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "IU Columbus",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "IU Kokomo",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Indiana East",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Indiana Northwest",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Indiana South Bend (IN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Indiana Southeast",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Indiana Tech",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Indiana Wesleyan",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Jarvis Christian",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Jessup",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "John Brown",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Johnson (TN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Judson (IL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kansas Wesleyan",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Keiser (Fla.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Kentucky Christian",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "LSU Alexandria (La.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "LSU Shreveport (La.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "La Sierra",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Langston (Okla.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lawrence Tech",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lewis-Clark State (Idaho)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Life",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Life Pacific",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Lindsey Wilson (Ky.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Louisiana Christian",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Loyola (La.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Madonna (Mich.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Marian",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mayville State",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "McPherson (Kan.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Michigan-Dearborn",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mid-America Christian",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "MidAmerica Nazarene",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Midland",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Midway",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Milligan (TN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mission (Mo.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Missouri Baptist",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Missouri Valley",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mobile (Ala.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Montana State-Northern (MT)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Montana Tech (MT)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Montana Western (MT)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Montreat (NC)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Morningside (Iowa)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Morris",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mount Marty",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mount Mercy",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Mount Vernon Nazarene (OH)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Nelson (Texas)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "New College of Florida",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "North American",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northern New Mexico",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northwest (WA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northwestern (Iowa)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Northwestern Ohio",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "OUAZ",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Oakwood (AL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Oklahoma City",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Oklahoma Panhandle State",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Oklahoma Wesleyan",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Olivet Nazarene (IL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Oregon Tech",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Ottawa (Kan.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Our Lady of the Lake",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Pacific Union (CA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Park",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Park-Gilbert (AZ)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Paul Quinn",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Peru State",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Philander Smith (AR)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Pikeville (KY)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Point",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Providence (MT)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Reinhardt (Ga.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rio Grande",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rochester Christian (Mich.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Rocky Mountain (MT)",
+        "data_availablity": "none"
+    },
+    {
+        "team_name": "Rust (MS)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Saint Francis (IN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Saint Mary",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Saint Xavier (IL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Science and Arts",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Simpson (CA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southeastern (Fla.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southern Oregon",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southern University at New Orleans (LA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southwest",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southwestern",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Southwestern Christian",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Spartanburg Methodist",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Spring Arbor (Mich.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "St. Ambrose (IA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "St. Francis (IL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "St. Mary-Woods",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "St. Thomas (Fla.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Stanton (CA)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Sterling",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Stillman",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Tabor",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Talladega (AL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Taylor (IN)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Tennessee Southern",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Tennessee Wesleyan",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Texas A&M  Texarkana",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Texas A&amp;M-San Antonio",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Texas College",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Texas Wesleyan",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "The Master's (Calif.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Thomas",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Tougaloo (Miss.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Truett McConnell",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "UHSP",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "UNT Dallas",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Union Commonwealth",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Valley City State",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Virgin Islands",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Viterbo",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Voorhees University",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "WVU Tech (WV)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Waldorf",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Walla Walla",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Warner (FL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Warner Pacific (OR)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Washington Adventist (MD)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Wayland Baptist (TX)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Webber International (FL)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Westcliff (Calif.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Wilberforce (OH)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Wiley (TX)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "William Carey (Miss.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "William Penn (Iowa)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "William Woods",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Williams Baptist (AR)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "Xavier (La.)",
+        "data_availablity": "partial"
+    },
+    {
+        "team_name": "York (NE)",
+        "data_availablity": "partial"
+    }
+]

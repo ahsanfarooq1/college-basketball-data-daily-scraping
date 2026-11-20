@@ -1,0 +1,1658 @@
+[
+  {
+    "team_name": "Adrian College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Agnes Scott College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Albertus Magnus College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Albion College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Albright College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Alfred State College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Alfred University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Allegheny College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Alma College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Alvernia University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Alverno College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Amherst College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Anderson University (Indiana)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Arcadia University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Asbury University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Augsburg University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Augustana College (Illinois)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Aurora University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Austin College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Averett University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Azusa Pacific University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Babson College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Baldwin Wallace University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bard College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Baruch College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bates College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Batten University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Belhaven University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Beloit College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Benedictine University (Illinois)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Berea College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Berry College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bethany College (West Virginia)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bethany Lutheran College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bethel University (Minnesota)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Blackburn College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bluffton University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bowdoin College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Brandeis University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Brevard College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bridgewater College (Virginia)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bridgewater State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Brooklyn College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Bryn Mawr College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Buena Vista University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Buffalo State, State University of New York",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Cairn University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "California Institute of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "California Lutheran University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Calvin University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Capital University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Carleton College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Carlow University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Carnegie Mellon University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Carroll University (Wisconsin)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Carthage College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Case Western Reserve University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Catholic University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Cedar Crest College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Centenary College (Louisiana)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Centenary University (New Jersey)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Central College (Iowa)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Centre College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Chapman University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Chatham University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Christopher Newport University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Claremont McKenna-Harvey Mudd-Scripps Colleges",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Clark University (Massachusetts)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Clarkson University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Coe College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Colby College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Colby-Sawyer College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "College of Saint Benedict",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Colorado College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Concordia College, Moorhead",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Concordia University Chicago",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Concordia University Texas",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Concordia University Wisconsin",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Connecticut College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Cornell College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Covenant College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Crown College (Minnesota)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Curry College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "DePauw University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "DeSales University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Dean College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Delaware Valley University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Denison University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Dickinson College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Dominican University (Illinois)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Drew University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Earlham College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "East Texas Baptist University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Eastern Connecticut State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Eastern Mennonite University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Eastern University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Edgewood University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Elizabethtown College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Elmhurst University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Elmira College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Elms College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Emerson College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Emmanuel College (Massachusetts)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Emory University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Endicott College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Eureka College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Fairleigh Dickinson University, Florham",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Farmingdale State College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Fitchburg State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Framingham State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Franciscan University of Steubenville",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Franklin & Marshall College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Franklin College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Gallaudet University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Geneva College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "George Fox University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Gettysburg College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Gordon College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Goucher College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Greensboro College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Greenville University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Grinnell College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Grove City College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Guilford College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Gustavus Adolphus College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Gwynedd Mercy University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hamilton College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hamline University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hanover College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hardin-Simmons University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hartwick College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Haverford College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Heidelberg University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hendrix College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hilbert College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hiram College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hollins University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hood College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hope College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Houghton University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Howard Payne University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Hunter College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Huntingdon College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Husson University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Illinois College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Illinois Institute of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Illinois Wesleyan University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Immaculata University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Ithaca College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "John Carroll University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "John Jay College of Criminal Justice",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Johns Hopkins University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Johnson & Wales University (Providence)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Johnson & Wales University Charlotte",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Juniata College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Kalamazoo College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Kean University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Keene State College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Kenyon College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Keuka College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Keystone College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "King's College (Pennsylvania)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Knox College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "La Roche University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "LaGrange College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lake Forest College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lakeland University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lancaster Bible College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lasell University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lawrence University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "LeTourneau University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lebanon Valley College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lehman College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lesley University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lewis & Clark College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Linfield University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Loras College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Luther College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lycoming College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Lyon College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Macalester College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Maine Maritime Academy",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Manchester University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Manhattanville University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Maranatha Baptist University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Marian University (Wisconsin)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Marietta College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Martin Luther College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mary Baldwin University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Marymount University (Virginia)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Maryville College (Tennessee)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Marywood University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Massachusetts College of Liberal Arts",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Massachusetts Institute of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "McDaniel College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "McMurry University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Medgar Evers College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Meredith College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Messiah University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Methodist University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Middlebury College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Millikin University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Millsaps College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Milwaukee School of Engineering",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Misericordia University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mississippi University for Women",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mitchell College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Monmouth College (Illinois)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Montclair State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Moravian University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mount Aloysius College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mount Holyoke College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mount Saint Mary College (New York)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Mount St. Joseph University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Muhlenberg College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Muskingum University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Nazareth University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Nebraska Wesleyan University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Neumann University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "New England College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "New York University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Nichols College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "North Carolina Wesleyan University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "North Central College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "North Central University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "North Park University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Norwich University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Notre Dame of Maryland University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Oberlin College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Occidental College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Oglethorpe University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Ohio Northern University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Ohio Wesleyan University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Otterbein University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pacific Lutheran University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pacific University (Oregon)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Penn State Berks College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Penn State Brandywine",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Penn State Harrisburg",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Penn State University, Abington",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Penn State University, Altoona",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pennsylvania College of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pennsylvania State Univ. Erie, the Behrend College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pfeiffer University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Piedmont University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Plattsburgh State University of New York",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Plymouth State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pomona-Pitzer Colleges",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Pratt Institute",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Principia College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Purchase College, State University of New York",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Ramapo College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Randolph College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Randolph-Macon College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Regent University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Regis College (Massachusetts)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rensselaer Polytechnic Institute",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rhode Island College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rhodes College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Ripon College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rivier University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Roanoke College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rochester Institute of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rockford University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Roger Williams University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rose-Hulman Institute of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rowan University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Russell Sage College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rutgers, The State Univ. of New Jersey, Camden",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Rutgers, The State Univ. of New Jersey, Newark",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Saint Elizabeth University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Saint Francis University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Saint Joseph's College (Maine)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Saint Mary's College (Indiana)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Saint Mary's University of Minnesota",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Saint Vincent College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Salem College (North Carolina)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Salem State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Salisbury University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Salve Regina University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Sarah Lawrence College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Schreiner University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Shenandoah University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Simpson College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Skidmore College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Smith College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Southern Virginia University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Southwestern University (Texas)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Spalding University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Springfield College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. Catherine University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. John Fisher University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. Joseph's University NY (Brooklyn)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. Joseph's University, New York L.I.",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. Lawrence University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. Mary's College of Maryland",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. Norbert College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "St. Olaf College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York Polytechnic Institute",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Brockport",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Canton",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Cobleskill",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Cortland",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Delhi",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Geneseo",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Morrisville",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at New Paltz",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Old Westbury",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Oneonta",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Oswego",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "State University of New York at Potsdam",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Stevens Institute of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Stevenson University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Stockton University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Suffolk University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Susquehanna University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Swarthmore College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Texas Lutheran University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "The City College of New York",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "The College of New Jersey",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "The College of St. Scholastica",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "The College of Wooster",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "The State University of New York at Fredonia",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "The University of Olivet ",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Thiel College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Thomas College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Transylvania University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Trine University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Trinity College (Connecticut)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Trinity University (Texas)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Tufts University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "U.S. Coast Guard Academy",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "U.S. Merchant Marine Academy",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Union College (New York)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of California, Santa Cruz",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Chicago",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Dallas",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Dubuque",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Hartford",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of La Verne",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Lynchburg",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Maine at Presque Isle",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Maine, Farmington",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Mary Hardin-Baylor",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Mary Washington",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Massachusetts Boston",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Massachusetts, Dartmouth",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Minnesota, Morris",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Mount Saint Vincent",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Mount Union",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of New England",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Northwestern-St. Paul",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Pittsburgh, Bradford",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Pittsburgh, Greensburg",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Puget Sound",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Redlands",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Rochester",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Saint Joseph (Connecticut)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Scranton",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Southern Maine",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of St. Thomas (Texas)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-Eau Claire",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-La Crosse",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-Oshkosh",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-Platteville",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-River Falls",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-Stevens Point",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-Stout Polytechnic",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-Superior",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of Wisconsin-Whitewater",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of the Ozarks (Arkansas)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "University of the South",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Ursinus College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Utica University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Vassar College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Vermont State University Castleton",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Vermont State University Lyndon",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Vermont State University-Johnson",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Warren Wilson College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wartburg College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Washington College (Maryland)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Washington University in St. Louis",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Washington and Jefferson College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Washington and Lee University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Waynesburg University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Webster University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wellesley College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wentworth Institute of Technology",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wesleyan University (Connecticut)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Western Connecticut State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Western New England University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Westfield State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Westminster College (Missouri)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Westminster College (Pennsylvania)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wheaton College (Illinois)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wheaton College (Massachusetts)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Whitman College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Whittier College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Whitworth University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Widener University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wilkes University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Willamette University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "William Paterson University of New Jersey",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "William Peace University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "William Smith College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Williams College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wilmington College (Ohio)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wilson College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wisconsin Lutheran College",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Wittenberg University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Worcester Polytechnic Institute",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "Worcester State University",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "York College (New York)",
+    "data_availablity": "partial"
+  },
+  {
+    "team_name": "York College (Pennsylvania)",
+    "data_availablity": "partial"
+  }
+]
