@@ -72,15 +72,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=nelson"
   },
   {
-    "team_id": "sterling",
-    "team_name": "Sterling College",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=sterling"
-  },
-  {
     "team_id": "paine",
     "team_name": "Paine College",
     "division": "DI",
@@ -88,6 +79,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=paine"
+  },
+  {
+    "team_id": "sterling",
+    "team_name": "Sterling College",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=sterling"
   },
   {
     "team_id": "asbury",
@@ -387,15 +387,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=faith baptist bible"
   },
   {
-    "team_id": "cbs - houston",
-    "team_name": "College of Biblical Studies - Houston",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=cbs - houston"
-  },
-  {
     "team_id": "arlington baptist",
     "team_name": "Arlington Baptist University",
     "division": "DII",
@@ -448,6 +439,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=bob jones"
+  },
+  {
+    "team_id": "cbs - houston",
+    "team_name": "College of Biblical Studies - Houston",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=cbs - houston"
   },
   {
     "team_id": "welch",
