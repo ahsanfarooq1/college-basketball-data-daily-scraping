@@ -1,16 +1,15 @@
 ERRORS: 0
-WARNINGS: 13
-  ! Naia_Coach_Stats_MBKB_2026_2027.json: 7 players with more GP than their team (e.g. Mount Mercy/Jaxson Fried 8>7, Mount Mercy/Brayson Laube 8>7, Mount Mercy/Johnnie Jones 8>7)
-  ! NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: 66 teams have GP but 0 points (e.g. Jessup University, Evergreen St., Lyon College)
-  ! NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: 63 teams have GP but 0 points (e.g. North American, Notre Dame of Maryland University, New College (FL))
+WARNINGS: 12
+  ! NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: 68 teams have GP but 0 points (e.g. Jessup University, Evergreen St., Lyon College)
+  ! NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: 67 teams have GP but 0 points (e.g. North American, Notre Dame of Maryland University, New College (FL))
   ! NCAA_Accumulated_Stats_MBB_D3_2026_2027.json: 32 teams have GP but 0 points (e.g. Notre Dame of Maryland University, Lyon College, Regent University)
   ! Njcaa_Coach_Stats_wbkb_div3_2026-27.json: 7 teams have GP but 0 points (e.g. Bergen Community College, CT State Community College, Delaware County Community College)
   ! Njcaa_Coach_Stats_mbkb_div1_2026-27.json: 4 teams have GP but 0 points (e.g. Baltimore City Community College, Chattanooga State Community College, Malcolm X College)
   ! Njcaa_Coach_Stats_mbkb_div3_2026-27.json: 5 teams have GP but 0 points (e.g. Atlantic Cape Community College, Bunker Hill Community College, Camp Community College)
-  ! Njcaa_Coach_Stats_mbkb_div2_2026-27.json: 20 players with more GP than their team (e.g. Palm Beach State College/Sam Wolff 5>4, Palm Beach State College/Chukwu Anigozie 5>4, Palm Beach State College/Dane Lewis 5>4)
+  ! Njcaa_Coach_Stats_mbkb_div2_2026-27.json: 26 players with more GP than their team (e.g. College of DuPage/Logan Glover 6>5, College of DuPage/TJ Davis 6>5, College of DuPage/Herman Dyson 6>5)
   ! Njcaa_Coach_Stats_mbkb_div2_2026-27.json: 5 teams have GP but 0 points (e.g. Delta College, Grand Rapids Community College, Harper College)
-  ! Njcaa_Coach_Stats_wbkb_div2_2026-27.json: 8 teams have GP but 0 points (e.g. Cape Fear Community College, Central Community College Columbus, Enterprise State Community College)
-  ! Njcaa_Coach_Stats_wbkb_div1_2026-27.json: 3 players with more GP than their team (e.g. Dyersburg State Community College/Kay Kay Sheffield 7>5, Dyersburg State Community College/Khy Khy Rodgers 6>5, Dyersburg State Community College/Aerie Quinn 7>5)
-  ! Njcaa_Coach_Stats_wbkb_div1_2026-27.json: 13 teams have GP but 0 points (e.g. Albany Technical College, Baltimore City Community College, Butler Community College-KS)
+  ! Njcaa_Coach_Stats_wbkb_div2_2026-27.json: 8 teams have GP but 0 points (e.g. Central Community College Columbus, Enterprise State Community College, Fayetteville Technical Community College)
+  ! Njcaa_Coach_Stats_wbkb_div1_2026-27.json: 2 players with more GP than their team (e.g. Dyersburg State Community College/Kay Kay Sheffield 7>6, Dyersburg State Community College/Aerie Quinn 7>6)
+  ! Njcaa_Coach_Stats_wbkb_div1_2026-27.json: 15 teams have GP but 0 points (e.g. Albany Technical College, Baltimore City Community College, Bryant & Stratton College - Ohio)
   ! NCCAA_Stats_MBB_DII_2026_2027.json: 1 players with more GP than their team (e.g. Faith Baptist Bible College/Kenny Brooks 6>5)
 RESULT: PASS (no blocking errors)
