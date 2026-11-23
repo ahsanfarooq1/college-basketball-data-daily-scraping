@@ -144,15 +144,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=mission"
   },
   {
-    "team_id": "judson",
-    "team_name": "Judson University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=judson"
-  },
-  {
     "team_id": "clinton",
     "team_name": "Clinton College",
     "division": "DI",
@@ -162,13 +153,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=clinton"
   },
   {
-    "team_id": "greenville",
-    "team_name": "Greenville University",
+    "team_id": "judson",
+    "team_name": "Judson University",
     "division": "DI",
     "sport": "wbkb",
     "season": "2026-27",
     "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=greenville"
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=judson"
   },
   {
     "team_id": "kentucky christian",
@@ -232,6 +223,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=champion christian"
+  },
+  {
+    "team_id": "greenville",
+    "team_name": "Greenville University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=greenville"
   },
   {
     "team_id": "roberts wesleyan",
@@ -405,15 +405,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=central bible university"
   },
   {
-    "team_id": "north central",
-    "team_name": "North Central University",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=north central"
-  },
-  {
     "team_id": "dallas christian",
     "team_name": "Dallas Christian College",
     "division": "DII",
@@ -450,15 +441,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=cbs - houston"
   },
   {
-    "team_id": "welch",
-    "team_name": "Welch College",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=welch"
-  },
-  {
     "team_id": "randall",
     "team_name": "Randall University",
     "division": "DII",
@@ -475,6 +457,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=crown"
+  },
+  {
+    "team_id": "welch",
+    "team_name": "Welch College",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=welch"
   },
   {
     "team_id": "toccoa falls",
@@ -502,6 +493,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=emmaus university"
+  },
+  {
+    "team_id": "north central",
+    "team_name": "North Central University",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=north central"
   },
   {
     "team_id": "ozark christian",
