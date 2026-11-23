@@ -36,15 +36,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=naic"
   },
   {
-    "team_id": "redeemer",
-    "team_name": "Redeemer University",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=redeemer"
-  },
-  {
     "team_id": "nelson",
     "team_name": "Nelson University",
     "division": "DI",
@@ -52,6 +43,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=nelson"
+  },
+  {
+    "team_id": "redeemer",
+    "team_name": "Redeemer University",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=redeemer"
   },
   {
     "team_id": "champion christian",
@@ -198,6 +198,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=azusa pacific"
   },
   {
+    "team_id": "bethel",
+    "team_name": "Bethel University",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=bethel"
+  },
+  {
     "team_id": "warner",
     "team_name": "Warner University",
     "division": "DI",
@@ -216,13 +225,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=southwestern christian"
   },
   {
-    "team_id": "bethel",
-    "team_name": "Bethel University",
+    "team_id": "columbia international",
+    "team_name": "Columbia International University",
     "division": "DI",
     "sport": "mbkb",
     "season": "2026-27",
     "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=bethel"
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=columbia international"
   },
   {
     "team_id": "ouaz",
@@ -288,15 +297,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=northwestern"
   },
   {
-    "team_id": "columbia international",
-    "team_name": "Columbia International University",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=columbia international"
-  },
-  {
     "team_id": "paine",
     "team_name": "Paine College",
     "division": "DI",
@@ -351,15 +351,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=azusa pacific"
   },
   {
-    "team_id": "bob jones",
-    "team_name": "Bob Jones University",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=bob jones"
-  },
-  {
     "team_id": "faith baptist bible",
     "team_name": "Faith Baptist Bible College",
     "division": "DII",
@@ -369,6 +360,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=faith baptist bible"
   },
   {
+    "team_id": "bob jones",
+    "team_name": "Bob Jones University",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=bob jones"
+  },
+  {
     "team_id": "spurgeon",
     "team_name": "Spurgeon College",
     "division": "DII",
@@ -376,15 +376,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=spurgeon"
-  },
-  {
-    "team_id": "welch",
-    "team_name": "Welch College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=welch"
   },
   {
     "team_id": "sterling",
@@ -414,13 +405,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=buf"
   },
   {
-    "team_id": "trinity bible",
-    "team_name": "Trinity Bible College",
+    "team_id": "welch",
+    "team_name": "Welch College",
     "division": "DII",
     "sport": "mbkb",
     "season": "2026-27",
     "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=trinity bible"
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=welch"
   },
   {
     "team_id": "west coast baptist",
@@ -430,6 +421,15 @@
     "season": "2026-27",
     "dual_division": true,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=west coast baptist"
+  },
+  {
+    "team_id": "manhattan christian",
+    "team_name": "Manhattan Christian College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=manhattan christian"
   },
   {
     "team_id": "great lakes christian",
@@ -477,6 +477,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=trinity college of jacksonville"
   },
   {
+    "team_id": "trinity bible",
+    "team_name": "Trinity Bible College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=trinity bible"
+  },
+  {
     "team_id": "cbs - houston",
     "team_name": "College of Biblical Studies - Houston",
     "division": "DII",
@@ -493,15 +502,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=southwestern adventist"
-  },
-  {
-    "team_id": "manhattan christian",
-    "team_name": "Manhattan Christian College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=manhattan christian"
   },
   {
     "team_id": "barclay",

@@ -1,50 +1,52 @@
-ALERT REPORT  2026-11-23 09:45
+ALERT REPORT  2026-11-23 20:01
 ======================================================================
 STATUS: ALL CLEAR - no website structure change or bad output detected (NJCAA, NAIA, NCAA, NCCAA)
 
-DAILY SCRAPE REPORT  2026-11-23 09:45   (season 2026-27)
+DAILY SCRAPE REPORT  2026-11-23 20:01   (season 2026-27)
 ======================================================================
 
-[NJCAA]  OK  (15.9 min)
+[NJCAA]  OK  (14.1 min)
   Njcaa_Coach_Stats_mbkb_div1_2026-27.json
       teams with games : 179 -> 179  (+0)
-      team-games (GP)  : 1066 -> 1076  (+10)
-      players w/ games : 2219 -> 2220  (+1)
-      teams whose GP changed: 24
-      !! GP went DOWN for 5 team(s): Connors State College 8->6, Kaskaskia College 9->3, Moberly Area Community College 9->8, Olive-Harvey College 7->6, Triton College 7->5
+      team-games (GP)  : 1076 -> 1078  (+2)
+      players w/ games : 2220 -> 2224  (+4)
+      teams whose GP changed: 15
+      !! GP went DOWN for 5 team(s): Allegany College of Maryland 9->8, Lake Region State College-ND 10->7, Meridian Community College 8->6, Richard J. Daley College 8->7, Southwestern Christian College 10->8
   Njcaa_Coach_Stats_mbkb_div2_2026-27.json
       teams with games : 151 -> 151  (+0)
-      team-games (GP)  : 819 -> 837  (+18)
-      players w/ games : 1887 -> 1902  (+15)
+      team-games (GP)  : 837 -> 852  (+15)
+      players w/ games : 1902 -> 1914  (+12)
       teams whose GP changed: 18
-      !! GP went DOWN for 1 team(s): Harcum College 7->6
+      !! GP went DOWN for 3 team(s): Frederick Community College 8->7, Highland Community College-Kansas 9->8, Prairie State College 6->5
   Njcaa_Coach_Stats_mbkb_div3_2026-27.json
       teams with games : 90 -> 90  (+0)
-      team-games (GP)  : 500 -> 508  (+8)
-      players w/ games : 1197 -> 1196  (-1)
-      teams whose GP changed: 7
-      !! GP went DOWN for 1 team(s): Minnesota State Community and Technical College 4->3
+      team-games (GP)  : 508 -> 529  (+21)
+      players w/ games : 1196 -> 1205  (+9)
+      teams whose GP changed: 14
+      !! GP went DOWN for 1 team(s): Sandhills Community College 8->6
   Njcaa_Coach_Stats_wbkb_div1_2026-27.json
       teams with games : 171 -> 171  (+0)
-      team-games (GP)  : 990 -> 1004  (+14)
-      players w/ games : 1870 -> 1872  (+2)
-      teams whose GP changed: 19
-      !! GP went DOWN for 5 team(s): Coahoma Community College 8->7, Murray State College 7->6, South Arkansas College 8->7, Spoon River College 7->5, Temple College 7->6
+      team-games (GP)  : 1004 -> 1025  (+21)
+      players w/ games : 1872 -> 1878  (+6)
+      teams whose GP changed: 23
+      !! GP went DOWN for 4 team(s): Lake Region State College-ND 9->8, Richard J. Daley College 9->8, Southern Arkansas University Tech 3->1, Southwestern Illinois 8->7
   Njcaa_Coach_Stats_wbkb_div2_2026-27.json
-      teams with games : 132 -> 132  (+0)
-      team-games (GP)  : 711 -> 732  (+21)
-      players w/ games : 1381 -> 1386  (+5)
-      teams whose GP changed: 21
-      !! GP went DOWN for 2 team(s): North Central Missouri College 10->8, Wake Technical Community College 6->4
+      teams with games : 132 -> 133  (+1)
+      team-games (GP)  : 732 -> 757  (+25)
+      players w/ games : 1386 -> 1389  (+3)
+      teams whose GP changed: 18
+      NEW teams (1): Grand Rapids Community College
+      !! GP went DOWN for 1 team(s): Edison State Community College 6->5
   Njcaa_Coach_Stats_wbkb_div3_2026-27.json
       teams with games : 69 -> 69  (+0)
-      team-games (GP)  : 328 -> 333  (+5)
+      team-games (GP)  : 333 -> 342  (+9)
       players w/ games : 584 -> 584  (+0)
-      teams whose GP changed: 5
+      teams whose GP changed: 7
+      !! GP went DOWN for 1 team(s): Hudson Valley Community College 7->6
   Njcaa_Women_Teams_d1_2026-2027.json: 183 -> 183 teams | partial 171->171 | none 12->12
         none -> partial: 0 team(s)
-  Njcaa_Women_Teams_d2_2026-2027.json: 137 -> 137 teams | partial 132->132 | none 5->5
-        none -> partial: 0 team(s)
+  Njcaa_Women_Teams_d2_2026-2027.json: 137 -> 137 teams | partial 132->133 | none 5->4 | 1 status changed
+        none -> partial: 1 team(s): Grand Rapids Community College
   Njcaa_Women_Teams_d3_2026-2027.json: 78 -> 78 teams | partial 69->69 | none 9->9
         none -> partial: 0 team(s)
   Njcaa_men_Teams_d1_2026-2027.json: 185 -> 185 teams | partial 179->179 | none 6->6
@@ -56,28 +58,31 @@ DAILY SCRAPE REPORT  2026-11-23 09:45   (season 2026-27)
 
 [NAIA]  OK  (0.1 min)
   Naia_Coach_Stats_MBKB_2026_2027.json
-      teams with games : 215 -> 215  (+0)
-      team-games (GP)  : 1514 -> 1515  (+1)
-      players w/ games : 3176 -> 3176  (+0)
-      teams whose GP changed: 3
-      !! GP went DOWN for 1 team(s): Dakota State (SD) 7->6
+      teams with games : 215 -> 218  (+3)
+      team-games (GP)  : 1515 -> 1541  (+26)
+      players w/ games : 3176 -> 3226  (+50)
+      teams whose GP changed: 2
+      NEW teams (3): Andrew (Ga.), Champion Christian College, Georgia Southern Golden Eagles
   Naia_Coach_Stats_WBKB_2026_2027.json
-      teams with games : 224 -> 224  (+0)
-      team-games (GP)  : 1515 -> 1526  (+11)
-      players w/ games : 2971 -> 2972  (+1)
-      teams whose GP changed: 11
-  naia_mens_teams_2026_27.json: 217 -> 217 teams | partial 215->215 | none 2->2
+      teams with games : 224 -> 228  (+4)
+      team-games (GP)  : 1526 -> 1566  (+40)
+      players w/ games : 2972 -> 3025  (+53)
+      teams whose GP changed: 2
+      NEW teams (4): Andrew (Ga.), Champion Christian College, Georgia Southern Golden Eagles, Wesleyan (GA)
+  naia_mens_teams_2026_27.json: 217 -> 220 teams | partial 215->218 | none 2->2 | +3 added
         none -> partial: 0 team(s)
-  naia_womens_teams_2026_27.json: 241 -> 241 teams | partial 224->224 | none 17->17
+        added: Andrew (Ga.), Champion Christian College, Georgia Southern Golden Eagles
+  naia_womens_teams_2026_27.json: 241 -> 245 teams | partial 224->228 | none 17->17 | +4 added
         none -> partial: 0 team(s)
+        added: Andrew (Ga.), Champion Christian College, Georgia Southern Golden Eagles, Wesleyan (GA)
 
-[NCAA]  OK  (3.2 min)
-  NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: NEW file - 591 teams with games, 7311 players with games
+[NCAA]  OK  (2.2 min)
+  NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: NEW file - 592 teams with games, 7320 players with games
   NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: NEW file - 441 teams with games, 5123 players with games
-  NCAA_Accumulated_Stats_MBB_D3_2026_2027.json: NEW file - 550 teams with games, 7825 players with games
-  NCAA_Accumulated_Stats_WBB_D1_2026_2027.json: NEW file - 565 teams with games, 6989 players with games
-  NCAA_Accumulated_Stats_WBB_D2_2026_2027.json: NEW file - 455 teams with games, 5727 players with games
-  NCAA_Accumulated_Stats_WBB_D3_2026_2027.json: NEW file - 530 teams with games, 7244 players with games
+  NCAA_Accumulated_Stats_MBB_D3_2026_2027.json: NEW file - 550 teams with games, 7827 players with games
+  NCAA_Accumulated_Stats_WBB_D1_2026_2027.json: NEW file - 565 teams with games, 6995 players with games
+  NCAA_Accumulated_Stats_WBB_D2_2026_2027.json: NEW file - 455 teams with games, 5731 players with games
+  NCAA_Accumulated_Stats_WBB_D3_2026_2027.json: NEW file - 530 teams with games, 7250 players with games
   NCAA_Men_Teams_D1_2026-27.json: 365 -> 365 teams | partial 365->365 | none 0->0
         none -> partial: 0 team(s)
   NCAA_Men_Teams_D2_2026-27.json: 294 -> 294 teams | partial 285->285 | none 9->9
@@ -94,24 +99,24 @@ DAILY SCRAPE REPORT  2026-11-23 09:45   (season 2026-27)
 [NCCAA]  OK  (1.6 min)
   NCCAA_Stats_MBB_DI_2026_2027.json
       teams with games : 38 -> 38  (+0)
-      team-games (GP)  : 214 -> 214  (+0)
-      players w/ games : 620 -> 620  (+0)
-      teams whose GP changed: 0
+      team-games (GP)  : 214 -> 221  (+7)
+      players w/ games : 620 -> 624  (+4)
+      teams whose GP changed: 4
   NCCAA_Stats_MBB_DII_2026_2027.json
       teams with games : 36 -> 36  (+0)
-      team-games (GP)  : 184 -> 190  (+6)
-      players w/ games : 525 -> 530  (+5)
-      teams whose GP changed: 6
+      team-games (GP)  : 190 -> 196  (+6)
+      players w/ games : 530 -> 534  (+4)
+      teams whose GP changed: 5
   NCCAA_Stats_WBB_DI_2026_2027.json
       teams with games : 37 -> 37  (+0)
-      team-games (GP)  : 197 -> 202  (+5)
-      players w/ games : 474 -> 474  (+0)
-      teams whose GP changed: 3
+      team-games (GP)  : 202 -> 209  (+7)
+      players w/ games : 474 -> 480  (+6)
+      teams whose GP changed: 4
   NCCAA_Stats_WBB_DII_2026_2027.json
       teams with games : 27 -> 27  (+0)
-      team-games (GP)  : 118 -> 121  (+3)
-      players w/ games : 305 -> 308  (+3)
-      teams whose GP changed: 3
+      team-games (GP)  : 121 -> 129  (+8)
+      players w/ games : 308 -> 317  (+9)
+      teams whose GP changed: 6
   NCCAA_Men_Teams_DI_2026-27.json: 38 -> 38 teams | partial 38->38 | none 0->0
         none -> partial: 0 team(s)
   NCCAA_Men_Teams_DII_2026-27.json: 36 -> 36 teams | partial 36->36 | none 0->0

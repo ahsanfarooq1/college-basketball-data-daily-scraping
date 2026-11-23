@@ -2275,6 +2275,11 @@
             "state": "KY"
         },
         {
+            "team_name": "Andrew (Ga.)",
+            "city": "",
+            "state": "Ga."
+        },
+        {
             "team_name": "Antelope Valley",
             "city": "",
             "state": ""
@@ -2441,6 +2446,11 @@
         },
         {
             "team_name": "Central Methodist",
+            "city": "",
+            "state": ""
+        },
+        {
+            "team_name": "Champion Christian College",
             "city": "",
             "state": ""
         },
@@ -2626,6 +2636,11 @@
         },
         {
             "team_name": "Georgia Gwinnett College",
+            "city": "",
+            "state": ""
+        },
+        {
+            "team_name": "Georgia Southern Golden Eagles",
             "city": "",
             "state": ""
         },
@@ -3423,6 +3438,11 @@
             "team_name": "Webber International (FL)",
             "city": "",
             "state": "FL"
+        },
+        {
+            "team_name": "Wesleyan (GA)",
+            "city": "",
+            "state": "GA"
         },
         {
             "team_name": "Westcliff (Calif.)",
