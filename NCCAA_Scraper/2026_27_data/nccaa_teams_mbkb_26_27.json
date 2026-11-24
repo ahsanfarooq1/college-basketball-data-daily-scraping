@@ -72,15 +72,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=cedarville"
   },
   {
-    "team_id": "malone",
-    "team_name": "Malone University",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=malone"
-  },
-  {
     "team_id": "alice lloyd",
     "team_name": "Alice Lloyd College",
     "division": "DI",
@@ -88,6 +79,15 @@
     "season": "2026-27",
     "dual_division": true,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=alice lloyd"
+  },
+  {
+    "team_id": "malone",
+    "team_name": "Malone University",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=malone"
   },
   {
     "team_id": "mission",
@@ -315,15 +315,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=virginia lynchburg"
   },
   {
-    "team_id": "clinton",
-    "team_name": "Clinton College",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=clinton"
-  },
-  {
     "team_id": "roberts wesleyan",
     "team_name": "Roberts Wesleyan University",
     "division": "DI",
@@ -331,6 +322,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=roberts wesleyan"
+  },
+  {
+    "team_id": "clinton",
+    "team_name": "Clinton College",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=clinton"
   },
   {
     "team_id": "bethesda",
@@ -378,6 +378,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=spurgeon"
   },
   {
+    "team_id": "buf",
+    "team_name": "Baptist University of Florida",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=buf"
+  },
+  {
     "team_id": "sterling",
     "team_name": "Sterling College",
     "division": "DII",
@@ -396,15 +405,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=pensacola christian"
   },
   {
-    "team_id": "buf",
-    "team_name": "Baptist University of Florida",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=buf"
-  },
-  {
     "team_id": "welch",
     "team_name": "Welch College",
     "division": "DII",
@@ -412,6 +412,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=welch"
+  },
+  {
+    "team_id": "great lakes christian",
+    "team_name": "Great Lakes Christian College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=great lakes christian"
   },
   {
     "team_id": "west coast baptist",
@@ -430,15 +439,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=manhattan christian"
-  },
-  {
-    "team_id": "great lakes christian",
-    "team_name": "Great Lakes Christian College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=great lakes christian"
   },
   {
     "team_id": "toccoa falls",

@@ -72,24 +72,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=paine"
   },
   {
-    "team_id": "cedarville",
-    "team_name": "Cedarville University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=cedarville"
-  },
-  {
-    "team_id": "nelson",
-    "team_name": "Nelson University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=nelson"
-  },
-  {
     "team_id": "bethel",
     "team_name": "Bethel University",
     "division": "DI",
@@ -99,6 +81,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=bethel"
   },
   {
+    "team_id": "cedarville",
+    "team_name": "Cedarville University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=cedarville"
+  },
+  {
     "team_id": "asbury",
     "team_name": "Asbury University",
     "division": "DI",
@@ -106,6 +97,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=asbury"
+  },
+  {
+    "team_id": "nelson",
+    "team_name": "Nelson University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=nelson"
   },
   {
     "team_id": "malone",
@@ -189,15 +189,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=wayland baptist"
   },
   {
-    "team_id": "virginia lynchburg",
-    "team_name": "Virginia University of Lynchburg",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=virginia lynchburg"
-  },
-  {
     "team_id": "northwestern",
     "team_name": "University of Northwestern",
     "division": "DI",
@@ -243,15 +234,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=roberts wesleyan"
   },
   {
-    "team_id": "alice lloyd",
-    "team_name": "Alice Lloyd College",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": true,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=alice lloyd"
-  },
-  {
     "team_id": "ohio christian",
     "team_name": "Ohio Christian University",
     "division": "DI",
@@ -259,6 +241,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=ohio christian"
+  },
+  {
+    "team_id": "alice lloyd",
+    "team_name": "Alice Lloyd College",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": true,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=alice lloyd"
   },
   {
     "team_id": "naic",
@@ -331,6 +322,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=bethesda"
+  },
+  {
+    "team_id": "virginia lynchburg",
+    "team_name": "Virginia University of Lynchburg",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=virginia lynchburg"
   },
   {
     "team_id": "randall",
