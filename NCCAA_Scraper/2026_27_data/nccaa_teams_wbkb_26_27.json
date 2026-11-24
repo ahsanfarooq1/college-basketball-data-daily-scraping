@@ -369,15 +369,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=trinity college of jacksonville"
   },
   {
-    "team_id": "faith baptist bible",
-    "team_name": "Faith Baptist Bible College",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=faith baptist bible"
-  },
-  {
     "team_id": "arlington baptist",
     "team_name": "Arlington Baptist University",
     "division": "DII",
@@ -385,15 +376,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=arlington baptist"
-  },
-  {
-    "team_id": "trinity bible",
-    "team_name": "Trinity Bible College",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=trinity bible"
   },
   {
     "team_id": "central bible university",
@@ -405,13 +387,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=central bible university"
   },
   {
-    "team_id": "dallas christian",
-    "team_name": "Dallas Christian College",
+    "team_id": "faith baptist bible",
+    "team_name": "Faith Baptist Bible College",
     "division": "DII",
     "sport": "wbkb",
     "season": "2026-27",
-    "dual_division": true,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=dallas christian"
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=faith baptist bible"
   },
   {
     "team_id": "bob jones",
@@ -439,6 +421,24 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=great lakes christian"
+  },
+  {
+    "team_id": "dallas christian",
+    "team_name": "Dallas Christian College",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": true,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=dallas christian"
+  },
+  {
+    "team_id": "trinity bible",
+    "team_name": "Trinity Bible College",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=trinity bible"
   },
   {
     "team_id": "randall",
@@ -475,6 +475,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=welch"
+  },
+  {
+    "team_id": "barclay",
+    "team_name": "Barclay College",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=barclay"
   },
   {
     "team_id": "southeastern baptist",
@@ -529,15 +538,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=manhattan christian"
-  },
-  {
-    "team_id": "barclay",
-    "team_name": "Barclay College",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=barclay"
   },
   {
     "team_id": "kuyper",
