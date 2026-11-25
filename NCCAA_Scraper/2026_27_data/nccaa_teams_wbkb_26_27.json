@@ -45,15 +45,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=ecclesia"
   },
   {
-    "team_id": "sterling",
-    "team_name": "Sterling College",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=sterling"
-  },
-  {
     "team_id": "grace",
     "team_name": "Grace College",
     "division": "DI",
@@ -61,6 +52,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=grace"
+  },
+  {
+    "team_id": "houghton",
+    "team_name": "Houghton University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=houghton"
   },
   {
     "team_id": "paine",
@@ -90,6 +90,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=cedarville"
   },
   {
+    "team_id": "mission",
+    "team_name": "Mission University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=mission"
+  },
+  {
     "team_id": "asbury",
     "team_name": "Asbury University",
     "division": "DI",
@@ -97,15 +106,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=asbury"
-  },
-  {
-    "team_id": "nelson",
-    "team_name": "Nelson University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=nelson"
   },
   {
     "team_id": "malone",
@@ -117,13 +117,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=malone"
   },
   {
-    "team_id": "houghton",
-    "team_name": "Houghton University",
+    "team_id": "nelson",
+    "team_name": "Nelson University",
     "division": "DI",
     "sport": "wbkb",
     "season": "2026-27",
     "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=houghton"
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=nelson"
   },
   {
     "team_id": "southwestern christian",
@@ -135,13 +135,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=southwestern christian"
   },
   {
-    "team_id": "mission",
-    "team_name": "Mission University",
+    "team_id": "sterling",
+    "team_name": "Sterling College",
     "division": "DI",
     "sport": "wbkb",
     "season": "2026-27",
     "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=mission"
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=sterling"
   },
   {
     "team_id": "clinton",
@@ -189,13 +189,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=wayland baptist"
   },
   {
-    "team_id": "northwestern",
-    "team_name": "University of Northwestern",
+    "team_id": "greenville",
+    "team_name": "Greenville University",
     "division": "DI",
     "sport": "wbkb",
     "season": "2026-27",
     "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=northwestern"
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=greenville"
   },
   {
     "team_id": "champion christian",
@@ -216,13 +216,13 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=columbia international"
   },
   {
-    "team_id": "greenville",
-    "team_name": "Greenville University",
+    "team_id": "northwestern",
+    "team_name": "University of Northwestern",
     "division": "DI",
     "sport": "wbkb",
     "season": "2026-27",
     "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=greenville"
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=northwestern"
   },
   {
     "team_id": "roberts wesleyan",
@@ -315,15 +315,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=fort lauderdale"
   },
   {
-    "team_id": "bethesda",
-    "team_name": "Bethesda University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=bethesda"
-  },
-  {
     "team_id": "virginia lynchburg",
     "team_name": "Virginia University of Lynchburg",
     "division": "DI",
@@ -331,6 +322,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=virginia lynchburg"
+  },
+  {
+    "team_id": "bethesda",
+    "team_name": "Bethesda University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=bethesda"
   },
   {
     "team_id": "randall",
