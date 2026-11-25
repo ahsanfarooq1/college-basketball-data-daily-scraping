@@ -126,6 +126,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=nelson"
   },
   {
+    "team_id": "kentucky christian",
+    "team_name": "Kentucky Christian University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=kentucky christian"
+  },
+  {
     "team_id": "southwestern christian",
     "team_name": "Southwestern Christian University",
     "division": "DI",
@@ -160,15 +169,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=judson"
-  },
-  {
-    "team_id": "kentucky christian",
-    "team_name": "Kentucky Christian University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=kentucky christian"
   },
   {
     "team_id": "mid-america christian",
