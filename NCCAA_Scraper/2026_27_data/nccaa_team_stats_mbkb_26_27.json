@@ -68,7 +68,7 @@
     "opp_apg": 28.14,
     "opp_spg": 11.0,
     "opp_bpg": 3.14,
-    "scraped_at": "2026-11-25T18:21:00"
+    "scraped_at": "2026-11-26T09:29:18"
   },
   {
     "team_id": "lancaster bible",
@@ -139,7 +139,78 @@
     "opp_apg": 14.33,
     "opp_spg": 8.67,
     "opp_bpg": 3.67,
-    "scraped_at": "2026-11-25T18:21:00"
+    "scraped_at": "2026-11-26T09:29:19"
+  },
+  {
+    "team_id": "malone",
+    "team_name": "Malone University",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "record_type": "team_total",
+    "nccaa_team_code": "30137",
+    "overall_record": "3-2-0",
+    "home_record": "3-1-0",
+    "away_record": "0-1-0",
+    "neutral_record": "0-1-0",
+    "conference_record": "0-0-0",
+    "games": 5,
+    "min": 1025,
+    "pts": 465,
+    "fgm": 160,
+    "fga": 339,
+    "fg_pct": 0.47,
+    "fg3m": 56,
+    "fg3a": 141,
+    "fg3_pct": 0.4,
+    "ftm": 89,
+    "fta": 124,
+    "ft_pct": 0.72,
+    "oreb": 78,
+    "dreb": 121,
+    "reb": 199,
+    "ast": 85,
+    "stl": 66,
+    "blk": 19,
+    "to": 85,
+    "pf": 117,
+    "tf": 0,
+    "dq": 5,
+    "deadball_reb": 90,
+    "ppg": 93.0,
+    "rpg": 39.8,
+    "apg": 17.0,
+    "spg": 13.2,
+    "bpg": 3.8,
+    "opp_games": 5,
+    "opp_min": 1025,
+    "opp_pts": 397,
+    "opp_fgm": 136,
+    "opp_fga": 296,
+    "opp_fg_pct": 0.46,
+    "opp_fg3m": 38,
+    "opp_fg3a": 107,
+    "opp_fg3_pct": 0.36,
+    "opp_ftm": 87,
+    "opp_fta": 135,
+    "opp_ft_pct": 0.64,
+    "opp_oreb": 60,
+    "opp_dreb": 120,
+    "opp_reb": 180,
+    "opp_ast": 69,
+    "opp_stl": 48,
+    "opp_blk": 14,
+    "opp_to": 101,
+    "opp_pf": 96,
+    "opp_tf": 0,
+    "opp_dq": 2,
+    "opp_deadball_reb": 210,
+    "opp_ppg": 79.4,
+    "opp_rpg": 36.0,
+    "opp_apg": 13.8,
+    "opp_spg": 9.6,
+    "opp_bpg": 2.8,
+    "scraped_at": "2026-11-26T09:29:19"
   },
   {
     "team_id": "grace",
@@ -210,7 +281,7 @@
     "opp_apg": 13.88,
     "opp_spg": 9.63,
     "opp_bpg": 2.25,
-    "scraped_at": "2026-11-25T18:21:01"
+    "scraped_at": "2026-11-26T09:29:20"
   },
   {
     "team_id": "naic",
@@ -281,7 +352,7 @@
     "opp_apg": 10.67,
     "opp_spg": 7.0,
     "opp_bpg": 2.0,
-    "scraped_at": "2026-11-25T18:21:01"
+    "scraped_at": "2026-11-26T09:29:21"
   },
   {
     "team_id": "alice lloyd",
@@ -352,7 +423,7 @@
     "opp_apg": 19.57,
     "opp_spg": 5.86,
     "opp_bpg": 2.14,
-    "scraped_at": "2026-11-25T18:21:02"
+    "scraped_at": "2026-11-26T09:29:21"
   },
   {
     "team_id": "nelson",
@@ -423,7 +494,7 @@
     "opp_apg": 11.5,
     "opp_spg": 7.88,
     "opp_bpg": 2.5,
-    "scraped_at": "2026-11-25T18:21:03"
+    "scraped_at": "2026-11-26T09:29:22"
   },
   {
     "team_id": "redeemer",
@@ -494,7 +565,7 @@
     "opp_apg": 23.71,
     "opp_spg": 12.14,
     "opp_bpg": 3.0,
-    "scraped_at": "2026-11-25T18:21:03"
+    "scraped_at": "2026-11-26T09:29:23"
   },
   {
     "team_id": "champion christian",
@@ -565,7 +636,7 @@
     "opp_apg": 11.67,
     "opp_spg": 9.33,
     "opp_bpg": 1.33,
-    "scraped_at": "2026-11-25T18:21:04"
+    "scraped_at": "2026-11-26T09:29:23"
   },
   {
     "team_id": "cedarville",
@@ -636,78 +707,7 @@
     "opp_apg": 13.5,
     "opp_spg": 7.83,
     "opp_bpg": 2.5,
-    "scraped_at": "2026-11-25T18:21:05"
-  },
-  {
-    "team_id": "malone",
-    "team_name": "Malone University",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "record_type": "team_total",
-    "nccaa_team_code": "30137",
-    "overall_record": "2-2-0",
-    "home_record": "2-1-0",
-    "away_record": "0-1-0",
-    "neutral_record": "0-1-0",
-    "conference_record": "0-0-0",
-    "games": 4,
-    "min": 825,
-    "pts": 342,
-    "fgm": 111,
-    "fga": 254,
-    "fg_pct": 0.44,
-    "fg3m": 39,
-    "fg3a": 101,
-    "fg3_pct": 0.39,
-    "ftm": 81,
-    "fta": 111,
-    "ft_pct": 0.73,
-    "oreb": 57,
-    "dreb": 90,
-    "reb": 147,
-    "ast": 60,
-    "stl": 46,
-    "blk": 14,
-    "to": 69,
-    "pf": 99,
-    "tf": 0,
-    "dq": 5,
-    "deadball_reb": 80,
-    "ppg": 85.5,
-    "rpg": 36.75,
-    "apg": 15.0,
-    "spg": 11.5,
-    "bpg": 3.5,
-    "opp_games": 4,
-    "opp_min": 825,
-    "opp_pts": 328,
-    "opp_fgm": 112,
-    "opp_fga": 229,
-    "opp_fg_pct": 0.49,
-    "opp_fg3m": 27,
-    "opp_fg3a": 73,
-    "opp_fg3_pct": 0.37,
-    "opp_ftm": 77,
-    "opp_fta": 119,
-    "opp_ft_pct": 0.65,
-    "opp_oreb": 44,
-    "opp_dreb": 101,
-    "opp_reb": 145,
-    "opp_ast": 56,
-    "opp_stl": 39,
-    "opp_blk": 14,
-    "opp_to": 74,
-    "opp_pf": 80,
-    "opp_tf": 0,
-    "opp_dq": 2,
-    "opp_deadball_reb": 190,
-    "opp_ppg": 82.0,
-    "opp_rpg": 36.25,
-    "opp_apg": 14.0,
-    "opp_spg": 9.75,
-    "opp_bpg": 3.5,
-    "scraped_at": "2026-11-25T18:21:06"
+    "scraped_at": "2026-11-26T09:29:24"
   },
   {
     "team_id": "mission",
@@ -717,68 +717,68 @@
     "season": "2026-27",
     "record_type": "team_total",
     "nccaa_team_code": "500365",
-    "overall_record": "3-5-0",
-    "home_record": "2-2-0",
+    "overall_record": "3-6-0",
+    "home_record": "2-3-0",
     "away_record": "1-3-0",
     "neutral_record": "0-1-0",
     "conference_record": "0-0-0",
-    "games": 8,
-    "min": 1582,
-    "pts": 673,
-    "fgm": 248,
-    "fga": 545,
-    "fg_pct": 0.46,
-    "fg3m": 62,
-    "fg3a": 187,
+    "games": 9,
+    "min": 1782,
+    "pts": 754,
+    "fgm": 275,
+    "fga": 610,
+    "fg_pct": 0.45,
+    "fg3m": 68,
+    "fg3a": 208,
     "fg3_pct": 0.33,
-    "ftm": 115,
-    "fta": 175,
-    "ft_pct": 0.66,
-    "oreb": 92,
-    "dreb": 228,
-    "reb": 320,
-    "ast": 89,
-    "stl": 59,
-    "blk": 20,
-    "to": 124,
-    "pf": 146,
+    "ftm": 136,
+    "fta": 199,
+    "ft_pct": 0.68,
+    "oreb": 106,
+    "dreb": 255,
+    "reb": 361,
+    "ast": 98,
+    "stl": 66,
+    "blk": 23,
+    "to": 136,
+    "pf": 164,
     "tf": 1,
     "dq": 2,
-    "deadball_reb": 315,
-    "ppg": 84.13,
-    "rpg": 40.0,
-    "apg": 11.13,
-    "spg": 7.38,
-    "bpg": 2.5,
-    "opp_games": 8,
-    "opp_min": 1598,
-    "opp_pts": 681,
-    "opp_fgm": 248,
-    "opp_fga": 542,
+    "deadball_reb": 335,
+    "ppg": 83.78,
+    "rpg": 40.11,
+    "apg": 10.89,
+    "spg": 7.33,
+    "bpg": 2.56,
+    "opp_games": 9,
+    "opp_min": 1798,
+    "opp_pts": 767,
+    "opp_fgm": 281,
+    "opp_fga": 612,
     "opp_fg_pct": 0.46,
-    "opp_fg3m": 66,
-    "opp_fg3a": 240,
-    "opp_fg3_pct": 0.28,
-    "opp_ftm": 119,
-    "opp_fta": 158,
-    "opp_ft_pct": 0.75,
-    "opp_oreb": 88,
-    "opp_dreb": 236,
-    "opp_reb": 324,
-    "opp_ast": 114,
-    "opp_stl": 62,
-    "opp_blk": 21,
-    "opp_to": 119,
-    "opp_pf": 141,
-    "opp_tf": 2,
+    "opp_fg3m": 77,
+    "opp_fg3a": 270,
+    "opp_fg3_pct": 0.29,
+    "opp_ftm": 128,
+    "opp_fta": 175,
+    "opp_ft_pct": 0.73,
+    "opp_oreb": 101,
+    "opp_dreb": 261,
+    "opp_reb": 362,
+    "opp_ast": 131,
+    "opp_stl": 67,
+    "opp_blk": 26,
+    "opp_to": 129,
+    "opp_pf": 155,
+    "opp_tf": 3,
     "opp_dq": 2,
-    "opp_deadball_reb": 183,
-    "opp_ppg": 85.13,
-    "opp_rpg": 40.5,
-    "opp_apg": 14.25,
-    "opp_spg": 7.75,
-    "opp_bpg": 2.63,
-    "scraped_at": "2026-11-25T18:21:06"
+    "opp_deadball_reb": 233,
+    "opp_ppg": 85.22,
+    "opp_rpg": 40.22,
+    "opp_apg": 14.56,
+    "opp_spg": 7.44,
+    "opp_bpg": 2.89,
+    "scraped_at": "2026-11-26T09:29:24"
   },
   {
     "team_id": "wayland baptist",
@@ -849,7 +849,7 @@
     "opp_apg": 10.67,
     "opp_spg": 9.0,
     "opp_bpg": 4.0,
-    "scraped_at": "2026-11-25T18:21:07"
+    "scraped_at": "2026-11-26T09:29:25"
   },
   {
     "team_id": "col. of ozarks",
@@ -920,7 +920,7 @@
     "opp_apg": 9.2,
     "opp_spg": 10.2,
     "opp_bpg": 2.2,
-    "scraped_at": "2026-11-25T18:21:08"
+    "scraped_at": "2026-11-26T09:29:26"
   },
   {
     "team_id": "justice",
@@ -991,7 +991,7 @@
     "opp_apg": 18.0,
     "opp_spg": 9.4,
     "opp_bpg": 3.6,
-    "scraped_at": "2026-11-25T18:21:08"
+    "scraped_at": "2026-11-26T09:29:26"
   },
   {
     "team_id": "sterling",
@@ -1062,7 +1062,7 @@
     "opp_apg": 10.0,
     "opp_spg": 7.71,
     "opp_bpg": 2.57,
-    "scraped_at": "2026-11-25T18:21:09"
+    "scraped_at": "2026-11-26T09:29:27"
   },
   {
     "team_id": "azusa pacific",
@@ -1133,7 +1133,7 @@
     "opp_apg": 8.0,
     "opp_spg": 6.0,
     "opp_bpg": 1.75,
-    "scraped_at": "2026-11-25T18:21:09"
+    "scraped_at": "2026-11-26T09:29:27"
   },
   {
     "team_id": "kentucky christian",
@@ -1204,7 +1204,7 @@
     "opp_apg": 16.33,
     "opp_spg": 5.5,
     "opp_bpg": 2.33,
-    "scraped_at": "2026-11-25T18:21:10"
+    "scraped_at": "2026-11-26T09:29:28"
   },
   {
     "team_id": "kansas christian",
@@ -1275,7 +1275,7 @@
     "opp_apg": 15.0,
     "opp_spg": 8.8,
     "opp_bpg": 2.8,
-    "scraped_at": "2026-11-25T18:21:11"
+    "scraped_at": "2026-11-26T09:29:29"
   },
   {
     "team_id": "campbellsville",
@@ -1346,7 +1346,7 @@
     "opp_apg": 12.75,
     "opp_spg": 5.38,
     "opp_bpg": 2.13,
-    "scraped_at": "2026-11-25T18:21:11"
+    "scraped_at": "2026-11-26T09:29:29"
   },
   {
     "team_id": "mid-america christian",
@@ -1417,7 +1417,7 @@
     "opp_apg": 10.83,
     "opp_spg": 6.67,
     "opp_bpg": 2.33,
-    "scraped_at": "2026-11-25T18:21:12"
+    "scraped_at": "2026-11-26T09:29:30"
   },
   {
     "team_id": "bethel",
@@ -1488,7 +1488,7 @@
     "opp_apg": 12.43,
     "opp_spg": 6.57,
     "opp_bpg": 2.43,
-    "scraped_at": "2026-11-25T18:21:12"
+    "scraped_at": "2026-11-26T09:29:30"
   },
   {
     "team_id": "houghton",
@@ -1559,78 +1559,7 @@
     "opp_apg": 11.43,
     "opp_spg": 11.14,
     "opp_bpg": 3.43,
-    "scraped_at": "2026-11-25T18:21:13"
-  },
-  {
-    "team_id": "ohio christian",
-    "team_name": "Ohio Christian University",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "record_type": "team_total",
-    "nccaa_team_code": "506333",
-    "overall_record": "1-2-0",
-    "home_record": "0-1-0",
-    "away_record": "1-1-0",
-    "neutral_record": "0-0-0",
-    "conference_record": "0-0-0",
-    "games": 3,
-    "min": 598,
-    "pts": 229,
-    "fgm": 85,
-    "fga": 201,
-    "fg_pct": 0.42,
-    "fg3m": 30,
-    "fg3a": 97,
-    "fg3_pct": 0.31,
-    "ftm": 29,
-    "fta": 41,
-    "ft_pct": 0.71,
-    "oreb": 31,
-    "dreb": 74,
-    "reb": 105,
-    "ast": 34,
-    "stl": 13,
-    "blk": 6,
-    "to": 27,
-    "pf": 39,
-    "tf": 0,
-    "dq": 0,
-    "deadball_reb": 41,
-    "ppg": 76.33,
-    "rpg": 35.0,
-    "apg": 11.33,
-    "spg": 4.33,
-    "bpg": 2.0,
-    "opp_games": 3,
-    "opp_min": 603,
-    "opp_pts": 257,
-    "opp_fgm": 106,
-    "opp_fga": 204,
-    "opp_fg_pct": 0.52,
-    "opp_fg3m": 13,
-    "opp_fg3a": 54,
-    "opp_fg3_pct": 0.24,
-    "opp_ftm": 32,
-    "opp_fta": 41,
-    "opp_ft_pct": 0.78,
-    "opp_oreb": 29,
-    "opp_dreb": 87,
-    "opp_reb": 116,
-    "opp_ast": 59,
-    "opp_stl": 17,
-    "opp_blk": 5,
-    "opp_to": 26,
-    "opp_pf": 39,
-    "opp_tf": 1,
-    "opp_dq": 0,
-    "opp_deadball_reb": 22,
-    "opp_ppg": 85.67,
-    "opp_rpg": 38.67,
-    "opp_apg": 19.67,
-    "opp_spg": 5.67,
-    "opp_bpg": 1.67,
-    "scraped_at": "2026-11-25T18:21:14"
+    "scraped_at": "2026-11-26T09:29:31"
   },
   {
     "team_id": "warner",
@@ -1701,7 +1630,7 @@
     "opp_apg": 10.75,
     "opp_spg": 8.5,
     "opp_bpg": 4.63,
-    "scraped_at": "2026-11-25T18:21:14"
+    "scraped_at": "2026-11-26T09:29:32"
   },
   {
     "team_id": "columbia international",
@@ -1772,7 +1701,7 @@
     "opp_apg": 8.71,
     "opp_spg": 9.43,
     "opp_bpg": 3.14,
-    "scraped_at": "2026-11-25T18:21:15"
+    "scraped_at": "2026-11-26T09:29:32"
   },
   {
     "team_id": "ouaz",
@@ -1782,68 +1711,68 @@
     "season": "2026-27",
     "record_type": "team_total",
     "nccaa_team_code": "506513",
-    "overall_record": "4-4-0",
-    "home_record": "1-2-0",
+    "overall_record": "5-4-0",
+    "home_record": "2-2-0",
     "away_record": "3-2-0",
     "neutral_record": "0-2-0",
     "conference_record": "0-0-0",
-    "games": 8,
-    "min": 1594,
-    "pts": 595,
-    "fgm": 209,
-    "fga": 471,
+    "games": 9,
+    "min": 1794,
+    "pts": 669,
+    "fgm": 232,
+    "fga": 523,
     "fg_pct": 0.44,
-    "fg3m": 81,
-    "fg3a": 221,
-    "fg3_pct": 0.37,
-    "ftm": 96,
-    "fta": 148,
-    "ft_pct": 0.65,
-    "oreb": 82,
-    "dreb": 185,
-    "reb": 267,
-    "ast": 107,
-    "stl": 43,
-    "blk": 17,
-    "to": 100,
-    "pf": 157,
+    "fg3m": 89,
+    "fg3a": 246,
+    "fg3_pct": 0.36,
+    "ftm": 116,
+    "fta": 175,
+    "ft_pct": 0.66,
+    "oreb": 93,
+    "dreb": 213,
+    "reb": 306,
+    "ast": 118,
+    "stl": 51,
+    "blk": 23,
+    "to": 114,
+    "pf": 172,
     "tf": 4,
     "dq": 1,
-    "deadball_reb": 434,
-    "ppg": 74.38,
-    "rpg": 33.38,
-    "apg": 13.38,
-    "spg": 5.38,
-    "bpg": 2.13,
-    "opp_games": 8,
-    "opp_min": 1605,
-    "opp_pts": 560,
-    "opp_fgm": 190,
-    "opp_fga": 430,
-    "opp_fg_pct": 0.44,
-    "opp_fg3m": 58,
-    "opp_fg3a": 169,
-    "opp_fg3_pct": 0.34,
-    "opp_ftm": 122,
-    "opp_fta": 191,
+    "deadball_reb": 454,
+    "ppg": 74.33,
+    "rpg": 34.0,
+    "apg": 13.11,
+    "spg": 5.67,
+    "bpg": 2.56,
+    "opp_games": 9,
+    "opp_min": 1805,
+    "opp_pts": 620,
+    "opp_fgm": 213,
+    "opp_fga": 490,
+    "opp_fg_pct": 0.43,
+    "opp_fg3m": 64,
+    "opp_fg3a": 195,
+    "opp_fg3_pct": 0.33,
+    "opp_ftm": 130,
+    "opp_fta": 204,
     "opp_ft_pct": 0.64,
-    "opp_oreb": 68,
-    "opp_dreb": 173,
-    "opp_reb": 241,
-    "opp_ast": 107,
-    "opp_stl": 52,
-    "opp_blk": 22,
-    "opp_to": 103,
-    "opp_pf": 152,
+    "opp_oreb": 80,
+    "opp_dreb": 196,
+    "opp_reb": 276,
+    "opp_ast": 119,
+    "opp_stl": 62,
+    "opp_blk": 23,
+    "opp_to": 116,
+    "opp_pf": 173,
     "opp_tf": 1,
     "opp_dq": 0,
-    "opp_deadball_reb": 266,
-    "opp_ppg": 70.0,
-    "opp_rpg": 30.13,
-    "opp_apg": 13.38,
-    "opp_spg": 6.5,
-    "opp_bpg": 2.75,
-    "scraped_at": "2026-11-25T18:21:16"
+    "opp_deadball_reb": 296,
+    "opp_ppg": 68.89,
+    "opp_rpg": 30.67,
+    "opp_apg": 13.22,
+    "opp_spg": 6.89,
+    "opp_bpg": 2.56,
+    "scraped_at": "2026-11-26T09:29:33"
   },
   {
     "team_id": "fort lauderdale",
@@ -1914,7 +1843,7 @@
     "opp_apg": 19.0,
     "opp_spg": 10.25,
     "opp_bpg": 3.25,
-    "scraped_at": "2026-11-25T18:21:16"
+    "scraped_at": "2026-11-26T09:29:33"
   },
   {
     "team_id": "southwestern christian",
@@ -1985,7 +1914,7 @@
     "opp_apg": 10.89,
     "opp_spg": 7.22,
     "opp_bpg": 2.89,
-    "scraped_at": "2026-11-25T18:21:17"
+    "scraped_at": "2026-11-26T09:29:34"
   },
   {
     "team_id": "asbury",
@@ -2056,7 +1985,7 @@
     "opp_apg": 12.4,
     "opp_spg": 6.6,
     "opp_bpg": 1.8,
-    "scraped_at": "2026-11-25T18:21:17"
+    "scraped_at": "2026-11-26T09:29:35"
   },
   {
     "team_id": "judson",
@@ -2127,7 +2056,7 @@
     "opp_apg": 19.5,
     "opp_spg": 10.75,
     "opp_bpg": 2.63,
-    "scraped_at": "2026-11-25T18:21:18"
+    "scraped_at": "2026-11-26T09:29:35"
   },
   {
     "team_id": "ecclesia",
@@ -2198,7 +2127,7 @@
     "opp_apg": 19.0,
     "opp_spg": 12.0,
     "opp_bpg": 5.75,
-    "scraped_at": "2026-11-25T18:21:19"
+    "scraped_at": "2026-11-26T09:29:36"
   },
   {
     "team_id": "northwestern",
@@ -2269,7 +2198,7 @@
     "opp_apg": 13.0,
     "opp_spg": 6.33,
     "opp_bpg": 2.17,
-    "scraped_at": "2026-11-25T18:21:19"
+    "scraped_at": "2026-11-26T09:29:37"
   },
   {
     "team_id": "central christian (kan.)",
@@ -2340,7 +2269,78 @@
     "opp_apg": 12.78,
     "opp_spg": 6.56,
     "opp_bpg": 1.67,
-    "scraped_at": "2026-11-25T18:21:20"
+    "scraped_at": "2026-11-26T09:29:37"
+  },
+  {
+    "team_id": "ohio christian",
+    "team_name": "Ohio Christian University",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "record_type": "team_total",
+    "nccaa_team_code": "506333",
+    "overall_record": "1-3-0",
+    "home_record": "0-1-0",
+    "away_record": "1-2-0",
+    "neutral_record": "0-0-0",
+    "conference_record": "0-0-0",
+    "games": 4,
+    "min": 798,
+    "pts": 271,
+    "fgm": 103,
+    "fga": 257,
+    "fg_pct": 0.4,
+    "fg3m": 34,
+    "fg3a": 116,
+    "fg3_pct": 0.29,
+    "ftm": 31,
+    "fta": 44,
+    "ft_pct": 0.7,
+    "oreb": 37,
+    "dreb": 94,
+    "reb": 131,
+    "ast": 39,
+    "stl": 20,
+    "blk": 6,
+    "to": 41,
+    "pf": 52,
+    "tf": 0,
+    "dq": 0,
+    "deadball_reb": 51,
+    "ppg": 67.75,
+    "rpg": 32.75,
+    "apg": 9.75,
+    "spg": 5.0,
+    "bpg": 1.5,
+    "opp_games": 4,
+    "opp_min": 803,
+    "opp_pts": 339,
+    "opp_fgm": 137,
+    "opp_fga": 264,
+    "opp_fg_pct": 0.52,
+    "opp_fg3m": 20,
+    "opp_fg3a": 78,
+    "opp_fg3_pct": 0.26,
+    "opp_ftm": 45,
+    "opp_fta": 57,
+    "opp_ft_pct": 0.79,
+    "opp_oreb": 40,
+    "opp_dreb": 119,
+    "opp_reb": 159,
+    "opp_ast": 76,
+    "opp_stl": 25,
+    "opp_blk": 7,
+    "opp_to": 36,
+    "opp_pf": 49,
+    "opp_tf": 1,
+    "opp_dq": 0,
+    "opp_deadball_reb": 32,
+    "opp_ppg": 84.75,
+    "opp_rpg": 39.75,
+    "opp_apg": 19.0,
+    "opp_spg": 6.25,
+    "opp_bpg": 1.75,
+    "scraped_at": "2026-11-26T09:29:38"
   },
   {
     "team_id": "paine",
@@ -2411,7 +2411,7 @@
     "opp_apg": 17.13,
     "opp_spg": 7.38,
     "opp_bpg": 3.38,
-    "scraped_at": "2026-11-25T18:21:20"
+    "scraped_at": "2026-11-26T09:29:38"
   },
   {
     "team_id": "virginia lynchburg",
@@ -2482,7 +2482,7 @@
     "opp_apg": 24.0,
     "opp_spg": 9.67,
     "opp_bpg": 5.0,
-    "scraped_at": "2026-11-25T18:21:21"
+    "scraped_at": "2026-11-26T09:29:39"
   },
   {
     "team_id": "clinton",
@@ -2553,7 +2553,7 @@
     "opp_apg": 13.17,
     "opp_spg": 8.83,
     "opp_bpg": 2.33,
-    "scraped_at": "2026-11-25T18:21:22"
+    "scraped_at": "2026-11-26T09:29:40"
   },
   {
     "team_id": "roberts wesleyan",
@@ -2624,7 +2624,7 @@
     "opp_apg": 17.4,
     "opp_spg": 10.0,
     "opp_bpg": 4.6,
-    "scraped_at": "2026-11-25T18:21:22"
+    "scraped_at": "2026-11-26T09:29:40"
   },
   {
     "team_id": "bethesda",
@@ -2695,7 +2695,7 @@
     "opp_apg": 18.88,
     "opp_spg": 9.0,
     "opp_bpg": 2.5,
-    "scraped_at": "2026-11-25T18:21:23"
+    "scraped_at": "2026-11-26T09:29:41"
   },
   {
     "team_id": "azusa pacific",
@@ -2766,7 +2766,7 @@
     "opp_apg": 6.0,
     "opp_spg": 5.0,
     "opp_bpg": 0.0,
-    "scraped_at": "2026-11-25T18:21:25"
+    "scraped_at": "2026-11-26T09:29:43"
   },
   {
     "team_id": "faith baptist bible",
@@ -2837,7 +2837,7 @@
     "opp_apg": 14.71,
     "opp_spg": 8.86,
     "opp_bpg": 2.57,
-    "scraped_at": "2026-11-25T18:21:26"
+    "scraped_at": "2026-11-26T09:29:43"
   },
   {
     "team_id": "bob jones",
@@ -2908,7 +2908,7 @@
     "opp_apg": 14.4,
     "opp_spg": 8.4,
     "opp_bpg": 1.4,
-    "scraped_at": "2026-11-25T18:21:26"
+    "scraped_at": "2026-11-26T09:29:44"
   },
   {
     "team_id": "spurgeon",
@@ -2979,7 +2979,7 @@
     "opp_apg": 14.75,
     "opp_spg": 13.5,
     "opp_bpg": 4.13,
-    "scraped_at": "2026-11-25T18:21:27"
+    "scraped_at": "2026-11-26T09:29:44"
   },
   {
     "team_id": "buf",
@@ -3050,7 +3050,7 @@
     "opp_apg": 21.6,
     "opp_spg": 11.9,
     "opp_bpg": 3.2,
-    "scraped_at": "2026-11-25T18:21:28"
+    "scraped_at": "2026-11-26T09:29:45"
   },
   {
     "team_id": "sterling",
@@ -3121,7 +3121,7 @@
     "opp_apg": 14.0,
     "opp_spg": 3.0,
     "opp_bpg": 2.0,
-    "scraped_at": "2026-11-25T18:21:28"
+    "scraped_at": "2026-11-26T09:29:46"
   },
   {
     "team_id": "pensacola christian",
@@ -3192,7 +3192,7 @@
     "opp_apg": 9.0,
     "opp_spg": 9.17,
     "opp_bpg": 1.67,
-    "scraped_at": "2026-11-25T18:21:29"
+    "scraped_at": "2026-11-26T09:29:46"
   },
   {
     "team_id": "welch",
@@ -3263,7 +3263,7 @@
     "opp_apg": 19.57,
     "opp_spg": 8.0,
     "opp_bpg": 3.29,
-    "scraped_at": "2026-11-25T18:21:29"
+    "scraped_at": "2026-11-26T09:29:47"
   },
   {
     "team_id": "great lakes christian",
@@ -3334,7 +3334,7 @@
     "opp_apg": 17.88,
     "opp_spg": 7.63,
     "opp_bpg": 3.0,
-    "scraped_at": "2026-11-25T18:21:30"
+    "scraped_at": "2026-11-26T09:29:47"
   },
   {
     "team_id": "manhattan christian",
@@ -3405,7 +3405,7 @@
     "opp_apg": 13.5,
     "opp_spg": 8.13,
     "opp_bpg": 2.25,
-    "scraped_at": "2026-11-25T18:21:31"
+    "scraped_at": "2026-11-26T09:29:48"
   },
   {
     "team_id": "west coast baptist",
@@ -3476,7 +3476,7 @@
     "opp_apg": 15.25,
     "opp_spg": 7.75,
     "opp_bpg": 4.0,
-    "scraped_at": "2026-11-25T18:21:31"
+    "scraped_at": "2026-11-26T09:29:48"
   },
   {
     "team_id": "toccoa falls",
@@ -3547,7 +3547,7 @@
     "opp_apg": 18.63,
     "opp_spg": 7.63,
     "opp_bpg": 1.88,
-    "scraped_at": "2026-11-25T18:21:32"
+    "scraped_at": "2026-11-26T09:29:49"
   },
   {
     "team_id": "dallas christian",
@@ -3618,7 +3618,7 @@
     "opp_apg": 12.63,
     "opp_spg": 7.0,
     "opp_bpg": 3.5,
-    "scraped_at": "2026-11-25T18:21:32"
+    "scraped_at": "2026-11-26T09:29:50"
   },
   {
     "team_id": "randall",
@@ -3689,7 +3689,7 @@
     "opp_apg": 12.0,
     "opp_spg": 8.2,
     "opp_bpg": 1.8,
-    "scraped_at": "2026-11-25T18:21:33"
+    "scraped_at": "2026-11-26T09:29:50"
   },
   {
     "team_id": "trinity college of jacksonville",
@@ -3760,7 +3760,7 @@
     "opp_apg": 14.33,
     "opp_spg": 9.17,
     "opp_bpg": 3.67,
-    "scraped_at": "2026-11-25T18:21:34"
+    "scraped_at": "2026-11-26T09:29:51"
   },
   {
     "team_id": "cbs - houston",
@@ -3831,78 +3831,7 @@
     "opp_apg": 19.5,
     "opp_spg": 7.38,
     "opp_bpg": 3.25,
-    "scraped_at": "2026-11-25T18:21:34"
-  },
-  {
-    "team_id": "trinity bible",
-    "team_name": "Trinity Bible College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "record_type": "team_total",
-    "nccaa_team_code": "505334",
-    "overall_record": "1-5-0",
-    "home_record": "1-2-0",
-    "away_record": "0-3-0",
-    "neutral_record": "0-3-0",
-    "conference_record": "1-1-0",
-    "games": 6,
-    "min": 1191,
-    "pts": 464,
-    "fgm": 173,
-    "fga": 392,
-    "fg_pct": 0.44,
-    "fg3m": 55,
-    "fg3a": 157,
-    "fg3_pct": 0.35,
-    "ftm": 63,
-    "fta": 108,
-    "ft_pct": 0.58,
-    "oreb": 62,
-    "dreb": 149,
-    "reb": 211,
-    "ast": 103,
-    "stl": 58,
-    "blk": 13,
-    "to": 111,
-    "pf": 89,
-    "tf": 0,
-    "dq": 2,
-    "deadball_reb": 295,
-    "ppg": 77.33,
-    "rpg": 35.17,
-    "apg": 17.17,
-    "spg": 9.67,
-    "bpg": 2.17,
-    "opp_games": 6,
-    "opp_min": 1202,
-    "opp_pts": 530,
-    "opp_fgm": 207,
-    "opp_fga": 445,
-    "opp_fg_pct": 0.47,
-    "opp_fg3m": 59,
-    "opp_fg3a": 163,
-    "opp_fg3_pct": 0.36,
-    "opp_ftm": 57,
-    "opp_fta": 97,
-    "opp_ft_pct": 0.59,
-    "opp_oreb": 84,
-    "opp_dreb": 157,
-    "opp_reb": 241,
-    "opp_ast": 109,
-    "opp_stl": 68,
-    "opp_blk": 7,
-    "opp_to": 83,
-    "opp_pf": 96,
-    "opp_tf": 4,
-    "opp_dq": 0,
-    "opp_deadball_reb": 316,
-    "opp_ppg": 88.33,
-    "opp_rpg": 40.17,
-    "opp_apg": 18.17,
-    "opp_spg": 11.33,
-    "opp_bpg": 1.17,
-    "scraped_at": "2026-11-25T18:21:35"
+    "scraped_at": "2026-11-26T09:29:51"
   },
   {
     "team_id": "southwestern adventist",
@@ -3973,7 +3902,7 @@
     "opp_apg": 11.5,
     "opp_spg": 7.5,
     "opp_bpg": 2.38,
-    "scraped_at": "2026-11-25T18:21:35"
+    "scraped_at": "2026-11-26T09:29:52"
   },
   {
     "team_id": "barclay",
@@ -4044,7 +3973,78 @@
     "opp_apg": 13.2,
     "opp_spg": 12.0,
     "opp_bpg": 1.8,
-    "scraped_at": "2026-11-25T18:21:36"
+    "scraped_at": "2026-11-26T09:29:53"
+  },
+  {
+    "team_id": "trinity bible",
+    "team_name": "Trinity Bible College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "record_type": "team_total",
+    "nccaa_team_code": "505334",
+    "overall_record": "1-6-0",
+    "home_record": "1-3-0",
+    "away_record": "0-3-0",
+    "neutral_record": "0-3-0",
+    "conference_record": "1-1-0",
+    "games": 7,
+    "min": 1393,
+    "pts": 529,
+    "fgm": 197,
+    "fga": 461,
+    "fg_pct": 0.43,
+    "fg3m": 61,
+    "fg3a": 175,
+    "fg3_pct": 0.35,
+    "ftm": 74,
+    "fta": 123,
+    "ft_pct": 0.6,
+    "oreb": 72,
+    "dreb": 174,
+    "reb": 246,
+    "ast": 117,
+    "stl": 65,
+    "blk": 21,
+    "to": 120,
+    "pf": 106,
+    "tf": 0,
+    "dq": 3,
+    "deadball_reb": 330,
+    "ppg": 75.57,
+    "rpg": 35.14,
+    "apg": 16.71,
+    "spg": 9.29,
+    "bpg": 3.0,
+    "opp_games": 7,
+    "opp_min": 1400,
+    "opp_pts": 612,
+    "opp_fgm": 238,
+    "opp_fga": 520,
+    "opp_fg_pct": 0.46,
+    "opp_fg3m": 70,
+    "opp_fg3a": 196,
+    "opp_fg3_pct": 0.36,
+    "opp_ftm": 66,
+    "opp_fta": 112,
+    "opp_ft_pct": 0.59,
+    "opp_oreb": 95,
+    "opp_dreb": 192,
+    "opp_reb": 287,
+    "opp_ast": 126,
+    "opp_stl": 72,
+    "opp_blk": 11,
+    "opp_to": 97,
+    "opp_pf": 110,
+    "opp_tf": 4,
+    "opp_dq": 0,
+    "opp_deadball_reb": 418,
+    "opp_ppg": 87.43,
+    "opp_rpg": 41.0,
+    "opp_apg": 18.0,
+    "opp_spg": 10.29,
+    "opp_bpg": 1.57,
+    "scraped_at": "2026-11-26T09:29:53"
   },
   {
     "team_id": "moody bible",
@@ -4115,7 +4115,7 @@
     "opp_apg": 19.86,
     "opp_spg": 10.71,
     "opp_bpg": 2.57,
-    "scraped_at": "2026-11-25T18:21:37"
+    "scraped_at": "2026-11-26T09:29:54"
   },
   {
     "team_id": "emmaus university",
@@ -4186,7 +4186,78 @@
     "opp_apg": 12.5,
     "opp_spg": 9.0,
     "opp_bpg": 2.0,
-    "scraped_at": "2026-11-25T18:21:37"
+    "scraped_at": "2026-11-26T09:29:54"
+  },
+  {
+    "team_id": "crown",
+    "team_name": "Crown College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "record_type": "team_total",
+    "nccaa_team_code": "30035",
+    "overall_record": "3-2-0",
+    "home_record": "1-2-0",
+    "away_record": "2-0-0",
+    "neutral_record": "0-0-0",
+    "conference_record": "0-0-0",
+    "games": 5,
+    "min": 998,
+    "pts": 372,
+    "fgm": 132,
+    "fga": 319,
+    "fg_pct": 0.41,
+    "fg3m": 41,
+    "fg3a": 131,
+    "fg3_pct": 0.31,
+    "ftm": 67,
+    "fta": 90,
+    "ft_pct": 0.74,
+    "oreb": 51,
+    "dreb": 140,
+    "reb": 191,
+    "ast": 64,
+    "stl": 31,
+    "blk": 24,
+    "to": 63,
+    "pf": 79,
+    "tf": 0,
+    "dq": 2,
+    "deadball_reb": 306,
+    "ppg": 74.4,
+    "rpg": 38.2,
+    "apg": 12.8,
+    "spg": 6.2,
+    "bpg": 4.8,
+    "opp_games": 5,
+    "opp_min": 1002,
+    "opp_pts": 340,
+    "opp_fgm": 130,
+    "opp_fga": 319,
+    "opp_fg_pct": 0.41,
+    "opp_fg3m": 26,
+    "opp_fg3a": 93,
+    "opp_fg3_pct": 0.28,
+    "opp_ftm": 54,
+    "opp_fta": 82,
+    "opp_ft_pct": 0.66,
+    "opp_oreb": 48,
+    "opp_dreb": 120,
+    "opp_reb": 168,
+    "opp_ast": 66,
+    "opp_stl": 34,
+    "opp_blk": 16,
+    "opp_to": 59,
+    "opp_pf": 81,
+    "opp_tf": 1,
+    "opp_dq": 2,
+    "opp_deadball_reb": 304,
+    "opp_ppg": 68.0,
+    "opp_rpg": 33.6,
+    "opp_apg": 13.2,
+    "opp_spg": 6.8,
+    "opp_bpg": 3.2,
+    "scraped_at": "2026-11-26T09:29:55"
   },
   {
     "team_id": "kuyper",
@@ -4257,78 +4328,7 @@
     "opp_apg": 16.0,
     "opp_spg": 7.86,
     "opp_bpg": 3.43,
-    "scraped_at": "2026-11-25T18:21:38"
-  },
-  {
-    "team_id": "crown",
-    "team_name": "Crown College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "record_type": "team_total",
-    "nccaa_team_code": "30035",
-    "overall_record": "2-2-0",
-    "home_record": "1-2-0",
-    "away_record": "1-0-0",
-    "neutral_record": "0-0-0",
-    "conference_record": "0-0-0",
-    "games": 4,
-    "min": 800,
-    "pts": 290,
-    "fgm": 101,
-    "fga": 244,
-    "fg_pct": 0.41,
-    "fg3m": 30,
-    "fg3a": 98,
-    "fg3_pct": 0.31,
-    "ftm": 58,
-    "fta": 75,
-    "ft_pct": 0.77,
-    "oreb": 40,
-    "dreb": 105,
-    "reb": 145,
-    "ast": 47,
-    "stl": 27,
-    "blk": 20,
-    "to": 49,
-    "pf": 65,
-    "tf": 0,
-    "dq": 2,
-    "deadball_reb": 204,
-    "ppg": 72.5,
-    "rpg": 36.25,
-    "apg": 11.75,
-    "spg": 6.75,
-    "bpg": 5.0,
-    "opp_games": 4,
-    "opp_min": 800,
-    "opp_pts": 275,
-    "opp_fgm": 106,
-    "opp_fga": 250,
-    "opp_fg_pct": 0.42,
-    "opp_fg3m": 20,
-    "opp_fg3a": 75,
-    "opp_fg3_pct": 0.27,
-    "opp_ftm": 43,
-    "opp_fta": 67,
-    "opp_ft_pct": 0.64,
-    "opp_oreb": 38,
-    "opp_dreb": 95,
-    "opp_reb": 133,
-    "opp_ast": 52,
-    "opp_stl": 27,
-    "opp_blk": 8,
-    "opp_to": 50,
-    "opp_pf": 64,
-    "opp_tf": 1,
-    "opp_dq": 1,
-    "opp_deadball_reb": 269,
-    "opp_ppg": 68.75,
-    "opp_rpg": 33.25,
-    "opp_apg": 13.0,
-    "opp_spg": 6.75,
-    "opp_bpg": 2.0,
-    "scraped_at": "2026-11-25T18:21:38"
+    "scraped_at": "2026-11-26T09:29:55"
   },
   {
     "team_id": "grace christian",
@@ -4399,7 +4399,7 @@
     "opp_apg": 11.8,
     "opp_spg": 8.4,
     "opp_bpg": 3.2,
-    "scraped_at": "2026-11-25T18:21:39"
+    "scraped_at": "2026-11-26T09:29:56"
   },
   {
     "team_id": "union adventist university",
@@ -4470,7 +4470,7 @@
     "opp_apg": 13.33,
     "opp_spg": 9.67,
     "opp_bpg": 4.67,
-    "scraped_at": "2026-11-25T18:21:40"
+    "scraped_at": "2026-11-26T09:29:57"
   },
   {
     "team_id": "boyce",
@@ -4541,7 +4541,7 @@
     "opp_apg": 14.25,
     "opp_spg": 7.25,
     "opp_bpg": 2.25,
-    "scraped_at": "2026-11-25T18:21:40"
+    "scraped_at": "2026-11-26T09:29:57"
   },
   {
     "team_id": "ozark christian",
@@ -4612,7 +4612,7 @@
     "opp_apg": 18.5,
     "opp_spg": 10.17,
     "opp_bpg": 2.0,
-    "scraped_at": "2026-11-25T18:21:41"
+    "scraped_at": "2026-11-26T09:29:58"
   },
   {
     "team_id": "carolina christian",
@@ -4683,7 +4683,7 @@
     "opp_apg": 16.14,
     "opp_spg": 8.14,
     "opp_bpg": 1.71,
-    "scraped_at": "2026-11-25T18:21:41"
+    "scraped_at": "2026-11-26T09:29:58"
   },
   {
     "team_id": "central bible university",
@@ -4754,7 +4754,7 @@
     "opp_apg": 12.0,
     "opp_spg": 10.75,
     "opp_bpg": 1.0,
-    "scraped_at": "2026-11-25T18:21:42"
+    "scraped_at": "2026-11-26T09:29:59"
   },
   {
     "team_id": "calvary",
@@ -4825,7 +4825,7 @@
     "opp_apg": 12.0,
     "opp_spg": 7.0,
     "opp_bpg": 1.0,
-    "scraped_at": "2026-11-25T18:21:43"
+    "scraped_at": "2026-11-26T09:30:00"
   },
   {
     "team_id": "simmons ky",
@@ -4896,7 +4896,7 @@
     "opp_apg": 17.33,
     "opp_spg": 9.78,
     "opp_bpg": 3.0,
-    "scraped_at": "2026-11-25T18:21:43"
+    "scraped_at": "2026-11-26T09:30:00"
   },
   {
     "team_id": "arlington baptist",
@@ -4967,7 +4967,7 @@
     "opp_apg": 17.13,
     "opp_spg": 11.25,
     "opp_bpg": 6.63,
-    "scraped_at": "2026-11-25T18:21:44"
+    "scraped_at": "2026-11-26T09:30:01"
   },
   {
     "team_id": "appalachian bible",
@@ -5038,7 +5038,7 @@
     "opp_apg": 15.33,
     "opp_spg": 10.0,
     "opp_bpg": 2.67,
-    "scraped_at": "2026-11-25T18:21:44"
+    "scraped_at": "2026-11-26T09:30:01"
   },
   {
     "team_id": "southeastern baptist",
@@ -5109,7 +5109,7 @@
     "opp_apg": 23.71,
     "opp_spg": 16.14,
     "opp_bpg": 3.57,
-    "scraped_at": "2026-11-25T18:21:45"
+    "scraped_at": "2026-11-26T09:30:02"
   },
   {
     "team_id": "north central",
@@ -5180,7 +5180,7 @@
     "opp_apg": 13.83,
     "opp_spg": 9.33,
     "opp_bpg": 3.33,
-    "scraped_at": "2026-11-25T18:21:46"
+    "scraped_at": "2026-11-26T09:30:02"
   },
   {
     "team_id": "oak hills christian",
@@ -5251,7 +5251,7 @@
     "opp_apg": 19.25,
     "opp_spg": 7.5,
     "opp_bpg": 2.5,
-    "scraped_at": "2026-11-25T18:21:46"
+    "scraped_at": "2026-11-26T09:30:03"
   },
   {
     "team_id": "maranatha baptist",
@@ -5322,7 +5322,7 @@
     "opp_apg": 16.8,
     "opp_spg": 15.6,
     "opp_bpg": 3.0,
-    "scraped_at": "2026-11-25T18:21:47"
+    "scraped_at": "2026-11-26T09:30:05"
   },
   {
     "team_id": "selma",
@@ -5393,6 +5393,6 @@
     "opp_apg": 25.8,
     "opp_spg": 8.6,
     "opp_bpg": 2.0,
-    "scraped_at": "2026-11-25T18:21:47"
+    "scraped_at": "2026-11-26T09:30:07"
   }
 ]

@@ -18,6 +18,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=lancaster bible"
   },
   {
+    "team_id": "malone",
+    "team_name": "Malone University",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=malone"
+  },
+  {
     "team_id": "grace",
     "team_name": "Grace College",
     "division": "DI",
@@ -79,15 +88,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=cedarville"
-  },
-  {
-    "team_id": "malone",
-    "team_name": "Malone University",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=malone"
   },
   {
     "team_id": "mission",
@@ -198,15 +198,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=houghton"
   },
   {
-    "team_id": "ohio christian",
-    "team_name": "Ohio Christian University",
-    "division": "DI",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=ohio christian"
-  },
-  {
     "team_id": "warner",
     "team_name": "Warner University",
     "division": "DI",
@@ -295,6 +286,15 @@
     "season": "2026-27",
     "dual_division": null,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=central christian (kan.)"
+  },
+  {
+    "team_id": "ohio christian",
+    "team_name": "Ohio Christian University",
+    "division": "DI",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball&year=2026&school=ohio christian"
   },
   {
     "team_id": "paine",
@@ -486,15 +486,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=cbs - houston"
   },
   {
-    "team_id": "trinity bible",
-    "team_name": "Trinity Bible College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=trinity bible"
-  },
-  {
     "team_id": "southwestern adventist",
     "team_name": "Southwestern Adventist University",
     "division": "DII",
@@ -511,6 +502,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=barclay"
+  },
+  {
+    "team_id": "trinity bible",
+    "team_name": "Trinity Bible College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=trinity bible"
   },
   {
     "team_id": "moody bible",
@@ -531,15 +531,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=emmaus university"
   },
   {
-    "team_id": "kuyper",
-    "team_name": "Kuyper College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=kuyper"
-  },
-  {
     "team_id": "crown",
     "team_name": "Crown College",
     "division": "DII",
@@ -547,6 +538,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=crown"
+  },
+  {
+    "team_id": "kuyper",
+    "team_name": "Kuyper College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=kuyper"
   },
   {
     "team_id": "grace christian",

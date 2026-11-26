@@ -1,43 +1,44 @@
-ALERT REPORT  2026-11-25 18:37
+ALERT REPORT  2026-11-26 09:44
 ======================================================================
 STATUS: ALL CLEAR - no website structure change or bad output detected (NJCAA, NAIA, NCAA, NCCAA)
 
-DAILY SCRAPE REPORT  2026-11-25 18:37   (season 2026-27)
+DAILY SCRAPE REPORT  2026-11-26 09:44   (season 2026-27)
 ======================================================================
 
-[NJCAA]  OK  (16.1 min)
+[NJCAA]  OK  (15.4 min)
   Njcaa_Coach_Stats_mbkb_div1_2026-27.json
       teams with games : 179 -> 179  (+0)
-      team-games (GP)  : 1168 -> 1190  (+22)
-      players w/ games : 2232 -> 2238  (+6)
-      teams whose GP changed: 13
+      team-games (GP)  : 1190 -> 1198  (+8)
+      players w/ games : 2238 -> 2236  (-2)
+      teams whose GP changed: 24
+      !! GP went DOWN for 4 team(s): Kankakee Community College 7->5, Kaskaskia College 10->4, Moberly Area Community College 9->6, Olive-Harvey College 8->7
   Njcaa_Coach_Stats_mbkb_div2_2026-27.json
       teams with games : 151 -> 151  (+0)
-      team-games (GP)  : 911 -> 919  (+8)
-      players w/ games : 1921 -> 1921  (+0)
-      teams whose GP changed: 11
-      !! GP went DOWN for 2 team(s): Mercer County Community College 8->7, South Arkansas College 9->7
+      team-games (GP)  : 919 -> 918  (-1)
+      players w/ games : 1921 -> 1922  (+1)
+      teams whose GP changed: 4
+      !! GP went DOWN for 2 team(s): Forsyth Technical Community College 9->7, St. Louis Community College 8->7
+      !! total GP decreased - check this output before using it
   Njcaa_Coach_Stats_mbkb_div3_2026-27.json
       teams with games : 90 -> 90  (+0)
-      team-games (GP)  : 566 -> 571  (+5)
+      team-games (GP)  : 571 -> 575  (+4)
       players w/ games : 1215 -> 1215  (+0)
-      teams whose GP changed: 5
+      teams whose GP changed: 4
   Njcaa_Coach_Stats_wbkb_div1_2026-27.json
       teams with games : 171 -> 171  (+0)
-      team-games (GP)  : 1077 -> 1081  (+4)
-      players w/ games : 1905 -> 1905  (+0)
-      teams whose GP changed: 5
-      !! GP went DOWN for 1 team(s): South Arkansas College 10->9
+      team-games (GP)  : 1081 -> 1083  (+2)
+      players w/ games : 1905 -> 1906  (+1)
+      teams whose GP changed: 2
   Njcaa_Coach_Stats_wbkb_div2_2026-27.json
       teams with games : 133 -> 133  (+0)
-      team-games (GP)  : 797 -> 812  (+15)
-      players w/ games : 1389 -> 1390  (+1)
-      teams whose GP changed: 10
+      team-games (GP)  : 812 -> 813  (+1)
+      players w/ games : 1390 -> 1390  (+0)
+      teams whose GP changed: 1
   Njcaa_Coach_Stats_wbkb_div3_2026-27.json
       teams with games : 69 -> 69  (+0)
-      team-games (GP)  : 356 -> 358  (+2)
+      team-games (GP)  : 358 -> 364  (+6)
       players w/ games : 590 -> 590  (+0)
-      teams whose GP changed: 2
+      teams whose GP changed: 5
   Njcaa_Women_Teams_d1_2026-2027.json: 183 -> 183 teams | partial 171->171 | none 12->12
         none -> partial: 0 team(s)
   Njcaa_Women_Teams_d2_2026-2027.json: 137 -> 137 teams | partial 133->133 | none 4->4
@@ -54,62 +55,66 @@ DAILY SCRAPE REPORT  2026-11-25 18:37   (season 2026-27)
 [NAIA]  OK  (0.1 min)
   Naia_Coach_Stats_MBKB_2026_2027.json
       teams with games : 218 -> 218  (+0)
-      team-games (GP)  : 1682 -> 1680  (-2)
-      players w/ games : 3249 -> 3247  (-2)
-      teams whose GP changed: 2
-      !! GP went DOWN for 2 team(s): Carroll (MT) 7->6, Northwest (WA) 5->4
-      !! total GP decreased - check this output before using it
+      team-games (GP)  : 1680 -> 1702  (+22)
+      players w/ games : 3247 -> 3248  (+1)
+      teams whose GP changed: 22
   Naia_Coach_Stats_WBKB_2026_2027.json
       teams with games : 228 -> 228  (+0)
-      team-games (GP)  : 1694 -> 1694  (+0)
-      players w/ games : 3040 -> 3039  (-1)
-      teams whose GP changed: 0
+      team-games (GP)  : 1694 -> 1709  (+15)
+      players w/ games : 3039 -> 3024  (-15)
+      teams whose GP changed: 15
+      NEW teams (1): Northwest (WA)
+      !! teams that LOST data (1): Northwest
   naia_mens_teams_2026_27.json: 220 -> 220 teams | partial 218->218 | none 2->2
         none -> partial: 0 team(s)
-  naia_womens_teams_2026_27.json: 245 -> 245 teams | partial 228->228 | none 17->17
+  naia_womens_teams_2026_27.json: 245 -> 245 teams | partial 228->228 | none 17->17 | +1 added | -1 removed
         none -> partial: 0 team(s)
+        added: Northwest (WA)
+        removed: Northwest
 
 [NCAA]  OK  (2.7 min)
-  NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: NEW file - 610 teams with games, 7556 players with games
-  NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: NEW file - 464 teams with games, 5425 players with games
-  NCAA_Accumulated_Stats_MBB_D3_2026_2027.json: NEW file - 564 teams with games, 8092 players with games
-  NCAA_Accumulated_Stats_WBB_D1_2026_2027.json: NEW file - 575 teams with games, 7181 players with games
-  NCAA_Accumulated_Stats_WBB_D2_2026_2027.json: NEW file - 469 teams with games, 5973 players with games
-  NCAA_Accumulated_Stats_WBB_D3_2026_2027.json: NEW file - 534 teams with games, 7355 players with games
+  NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: NEW file - 614 teams with games, 7631 players with games
+  NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: NEW file - 468 teams with games, 5490 players with games
+  NCAA_Accumulated_Stats_MBB_D3_2026_2027.json: NEW file - 571 teams with games, 8189 players with games
+  NCAA_Accumulated_Stats_WBB_D1_2026_2027.json: NEW file - 576 teams with games, 7198 players with games
+  NCAA_Accumulated_Stats_WBB_D2_2026_2027.json: NEW file - 471 teams with games, 6003 players with games
+  NCAA_Accumulated_Stats_WBB_D3_2026_2027.json: NEW file - 536 teams with games, 7377 players with games
   NCAA_Men_Teams_D1_2026-27.json: 365 -> 365 teams | partial 365->365 | none 0->0
         none -> partial: 0 team(s)
   NCAA_Men_Teams_D2_2026-27.json: 295 -> 295 teams | partial 286->286 | none 9->9
         none -> partial: 0 team(s)
-  NCAA_Men_Teams_D3_2026-27.json: 405 -> 405 teams | partial 399->399 | none 6->6
+  NCAA_Men_Teams_D3_2026-27.json: 405 -> 406 teams | partial 399->400 | none 6->6 | +1 added
         none -> partial: 0 team(s)
+        added: Pacific University (Oregon)
   NCAA_Women_Teams_D1_2026-27.json: 363 -> 363 teams | partial 363->363 | none 0->0
         none -> partial: 0 team(s)
   NCAA_Women_Teams_D2_2026-27.json: 296 -> 296 teams | partial 296->296 | none 0->0
         none -> partial: 0 team(s)
-  NCAA_Women_Teams_D3_2026-27.json: 414 -> 414 teams | partial 414->414 | none 0->0
+  NCAA_Women_Teams_D3_2026-27.json: 414 -> 415 teams | partial 414->415 | none 0->0 | +1 added
         none -> partial: 0 team(s)
+        added: Yeshiva University
 
 [NCCAA]  OK  (1.6 min)
   NCCAA_Stats_MBB_DI_2026_2027.json
       teams with games : 38 -> 38  (+0)
-      team-games (GP)  : 238 -> 239  (+1)
-      players w/ games : 633 -> 634  (+1)
-      teams whose GP changed: 1
+      team-games (GP)  : 239 -> 243  (+4)
+      players w/ games : 634 -> 636  (+2)
+      teams whose GP changed: 4
   NCCAA_Stats_MBB_DII_2026_2027.json
       teams with games : 36 -> 36  (+0)
-      team-games (GP)  : 215 -> 216  (+1)
-      players w/ games : 541 -> 541  (+0)
-      teams whose GP changed: 1
+      team-games (GP)  : 216 -> 218  (+2)
+      players w/ games : 541 -> 543  (+2)
+      teams whose GP changed: 2
   NCCAA_Stats_WBB_DI_2026_2027.json
       teams with games : 37 -> 37  (+0)
-      team-games (GP)  : 232 -> 233  (+1)
-      players w/ games : 490 -> 491  (+1)
-      teams whose GP changed: 1
+      team-games (GP)  : 233 -> 236  (+3)
+      players w/ games : 491 -> 491  (+0)
+      teams whose GP changed: 3
   NCCAA_Stats_WBB_DII_2026_2027.json
       teams with games : 27 -> 27  (+0)
-      team-games (GP)  : 133 -> 134  (+1)
-      players w/ games : 318 -> 318  (+0)
-      teams whose GP changed: 1
+      team-games (GP)  : 134 -> 136  (+2)
+      players w/ games : 318 -> 322  (+4)
+      teams whose GP changed: 2
   NCCAA_Men_Teams_DI_2026-27.json: 38 -> 38 teams | partial 38->38 | none 0->0
         none -> partial: 0 team(s)
   NCCAA_Men_Teams_DII_2026-27.json: 36 -> 36 teams | partial 36->36 | none 0->0

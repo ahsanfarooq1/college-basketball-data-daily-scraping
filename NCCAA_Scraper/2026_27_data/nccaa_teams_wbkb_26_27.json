@@ -99,15 +99,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=mission"
   },
   {
-    "team_id": "asbury",
-    "team_name": "Asbury University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=asbury"
-  },
-  {
     "team_id": "malone",
     "team_name": "Malone University",
     "division": "DI",
@@ -133,6 +124,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=kentucky christian"
+  },
+  {
+    "team_id": "asbury",
+    "team_name": "Asbury University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=asbury"
   },
   {
     "team_id": "southwestern christian",
@@ -423,6 +423,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=great lakes christian"
   },
   {
+    "team_id": "crown",
+    "team_name": "Crown College",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=crown"
+  },
+  {
     "team_id": "dallas christian",
     "team_name": "Dallas Christian College",
     "division": "DII",
@@ -430,15 +439,6 @@
     "season": "2026-27",
     "dual_division": true,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=dallas christian"
-  },
-  {
-    "team_id": "trinity bible",
-    "team_name": "Trinity Bible College",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=trinity bible"
   },
   {
     "team_id": "randall",
@@ -450,15 +450,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=randall"
   },
   {
-    "team_id": "crown",
-    "team_name": "Crown College",
-    "division": "DII",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=crown"
-  },
-  {
     "team_id": "toccoa falls",
     "team_name": "University of Toccoa Falls",
     "division": "DII",
@@ -466,6 +457,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=toccoa falls"
+  },
+  {
+    "team_id": "trinity bible",
+    "team_name": "Trinity Bible College",
+    "division": "DII",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball2&year=2026&school=trinity bible"
   },
   {
     "team_id": "welch",
