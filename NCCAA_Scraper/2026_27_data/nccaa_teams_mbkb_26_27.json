@@ -567,15 +567,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=union adventist university"
   },
   {
-    "team_id": "boyce",
-    "team_name": "Boyce College",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=boyce"
-  },
-  {
     "team_id": "ozark christian",
     "team_name": "Ozark Christian College",
     "division": "DII",
@@ -583,6 +574,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=ozark christian"
+  },
+  {
+    "team_id": "boyce",
+    "team_name": "Boyce College",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=boyce"
   },
   {
     "team_id": "carolina christian",

@@ -234,6 +234,15 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=roberts wesleyan"
   },
   {
+    "team_id": "azusa pacific",
+    "team_name": "Azusa Pacific University",
+    "division": "DI",
+    "sport": "wbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=azusa pacific"
+  },
+  {
     "team_id": "ohio christian",
     "team_name": "Ohio Christian University",
     "division": "DI",
@@ -268,15 +277,6 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=redeemer"
-  },
-  {
-    "team_id": "azusa pacific",
-    "team_name": "Azusa Pacific University",
-    "division": "DI",
-    "sport": "wbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=wbball&year=2026&school=azusa pacific"
   },
   {
     "team_id": "warner",
