@@ -1,22 +1,21 @@
-ALERT REPORT  2026-11-27 11:49
+ALERT REPORT  2026-11-27 18:02
 ======================================================================
 STATUS: ALL CLEAR - no website structure change or bad output detected (NJCAA, NAIA, NCAA, NCCAA)
 
-DAILY SCRAPE REPORT  2026-11-27 11:49   (season 2026-27)
+DAILY SCRAPE REPORT  2026-11-27 18:02   (season 2026-27)
 ======================================================================
 
 [NJCAA]  OK  (15.1 min)
   Njcaa_Coach_Stats_mbkb_div1_2026-27.json
       teams with games : 179 -> 179  (+0)
-      team-games (GP)  : 1198 -> 1200  (+2)
+      team-games (GP)  : 1200 -> 1200  (+0)
       players w/ games : 2238 -> 2238  (+0)
-      teams whose GP changed: 2
+      teams whose GP changed: 0
   Njcaa_Coach_Stats_mbkb_div2_2026-27.json
       teams with games : 151 -> 151  (+0)
-      team-games (GP)  : 922 -> 923  (+1)
+      team-games (GP)  : 923 -> 923  (+0)
       players w/ games : 1924 -> 1924  (+0)
-      teams whose GP changed: 3
-      !! GP went DOWN for 1 team(s): Black Hawk College 7->6
+      teams whose GP changed: 0
   Njcaa_Coach_Stats_mbkb_div3_2026-27.json
       teams with games : 90 -> 90  (+0)
       team-games (GP)  : 576 -> 576  (+0)
@@ -34,9 +33,11 @@ DAILY SCRAPE REPORT  2026-11-27 11:49   (season 2026-27)
       teams whose GP changed: 0
   Njcaa_Coach_Stats_wbkb_div3_2026-27.json
       teams with games : 69 -> 69  (+0)
-      team-games (GP)  : 366 -> 366  (+0)
+      team-games (GP)  : 366 -> 365  (-1)
       players w/ games : 590 -> 590  (+0)
-      teams whose GP changed: 0
+      teams whose GP changed: 1
+      !! GP went DOWN for 1 team(s): Owens Community College 7->6
+      !! total GP decreased - check this output before using it
   Njcaa_Women_Teams_d1_2026-2027.json: 183 -> 183 teams | partial 171->171 | none 12->12
         none -> partial: 0 team(s)
   Njcaa_Women_Teams_d2_2026-2027.json: 137 -> 137 teams | partial 134->134 | none 3->3
@@ -66,12 +67,12 @@ DAILY SCRAPE REPORT  2026-11-27 11:49   (season 2026-27)
   naia_womens_teams_2026_27.json: 245 -> 245 teams | partial 229->229 | none 16->16
         none -> partial: 0 team(s)
 
-[NCAA]  OK  (3.1 min)
+[NCAA]  OK  (2.9 min)
   NCAA_Accumulated_Stats_MBB_D1_2026_2027.json: NEW file - 614 teams with games, 7632 players with games
-  NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: NEW file - 468 teams with games, 5490 players with games
+  NCAA_Accumulated_Stats_MBB_D2_2026_2027.json: NEW file - 468 teams with games, 5491 players with games
   NCAA_Accumulated_Stats_MBB_D3_2026_2027.json: NEW file - 571 teams with games, 8189 players with games
-  NCAA_Accumulated_Stats_WBB_D1_2026_2027.json: NEW file - 576 teams with games, 7202 players with games
-  NCAA_Accumulated_Stats_WBB_D2_2026_2027.json: NEW file - 471 teams with games, 6004 players with games
+  NCAA_Accumulated_Stats_WBB_D1_2026_2027.json: NEW file - 576 teams with games, 7241 players with games
+  NCAA_Accumulated_Stats_WBB_D2_2026_2027.json: NEW file - 471 teams with games, 6007 players with games
   NCAA_Accumulated_Stats_WBB_D3_2026_2027.json: NEW file - 536 teams with games, 7377 players with games
   NCAA_Men_Teams_D1_2026-27.json: 365 -> 365 teams | partial 365->365 | none 0->0
         none -> partial: 0 team(s)
@@ -94,9 +95,9 @@ DAILY SCRAPE REPORT  2026-11-27 11:49   (season 2026-27)
       teams whose GP changed: 0
   NCCAA_Stats_MBB_DII_2026_2027.json
       teams with games : 36 -> 36  (+0)
-      team-games (GP)  : 219 -> 219  (+0)
-      players w/ games : 544 -> 544  (+0)
-      teams whose GP changed: 0
+      team-games (GP)  : 219 -> 220  (+1)
+      players w/ games : 544 -> 545  (+1)
+      teams whose GP changed: 1
   NCCAA_Stats_WBB_DI_2026_2027.json
       teams with games : 37 -> 37  (+0)
       team-games (GP)  : 238 -> 238  (+0)

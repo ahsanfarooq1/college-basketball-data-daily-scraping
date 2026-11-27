@@ -459,15 +459,6 @@
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=dallas christian"
   },
   {
-    "team_id": "randall",
-    "team_name": "Randall University",
-    "division": "DII",
-    "sport": "mbkb",
-    "season": "2026-27",
-    "dual_division": false,
-    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=randall"
-  },
-  {
     "team_id": "trinity college of jacksonville",
     "team_name": "Trinity College of Jacksonville",
     "division": "DII",
@@ -484,6 +475,15 @@
     "season": "2026-27",
     "dual_division": false,
     "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=cbs - houston"
+  },
+  {
+    "team_id": "randall",
+    "team_name": "Randall University",
+    "division": "DII",
+    "sport": "mbkb",
+    "season": "2026-27",
+    "dual_division": false,
+    "url": "https://thenccaa.org/teamstats.aspx?path=mbball2&year=2026&school=randall"
   },
   {
     "team_id": "southwestern adventist",
